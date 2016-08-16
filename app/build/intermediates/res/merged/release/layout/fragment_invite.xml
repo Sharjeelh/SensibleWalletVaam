@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollbar_invitepage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <include
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/top_points_bar" />
+
+            <TextView
+                android:textSize="14sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="12dp"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/material_color_primary_dark"
+                android:text="@string/screen_invite_friends_invitation_id_label"
+                android:textStyle="bold" />
+
+            <TextView android:id="@+id/invite_id_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/md_grey_800"
+                android:textSize="26sp"
+                android:layout_marginBottom="12dp"/>
+
+            <!--<ImageView-->
+                <!--android:visibility="gone"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="@dimen/fifteen"-->
+                <!--android:layout_marginRight="@dimen/fifteen"-->
+                <!--android:layout_marginTop="@dimen/ten"-->
+                <!--android:src="@drawable/invitecard" />-->
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/md_grey_300" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp">
+
+                <TextView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:text="1"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/blue_circle"
+                    android:textColor="@color/md_white_1000"/>
+
+                <!--<ImageView-->
+                    <!--android:layout_width="@dimen/invite_imgheightwidth"-->
+                    <!--android:layout_height="@dimen/invite_imgheightwidth"-->
+                    <!--android:layout_gravity="center_vertical"-->
+                    <!--android:contentDescription="@string/app_name"-->
+                    <!--android:paddingBottom="@dimen/five"-->
+                    <!--android:paddingLeft="@dimen/five"-->
+                    <!--android:src="@drawable/first" />-->
+
+                <TextView
+                    style="@style/textviewstyle1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="start"
+                    android:textStyle="normal"
+                    android:textSize="14sp"
+                    android:text="@string/screen_invite_friends_instruction_1"
+                    android:textColor="@color/md_grey_600" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/md_grey_300" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp" >
+
+                <TextView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:text="2"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/blue_circle"
+                    android:textColor="@color/md_white_1000"/>
+
+                <TextView
+                    style="@style/textviewstyle1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="start"
+                    android:textStyle="normal"
+                    android:textSize="14sp"
+                    android:text="@string/screen_invite_friends_instruction_2"
+                    android:textColor="@color/md_grey_600" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/md_grey_300" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp">
+
+                <TextView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:text="3"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/blue_circle"
+                    android:textColor="@color/md_white_1000"/>
+
+                <TextView
+                    style="@style/textviewstyle1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="start"
+                    android:textStyle="normal"
+                    android:textSize="14sp"
+                    android:text="@string/screen_invite_friends_instruction_3"
+                    android:textColor="@color/md_grey_600" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/md_grey_300" />
+
+            <LinearLayout
+                android:id="@+id/ll_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/ten"
+                android:layout_marginRight="@dimen/ten"
+                android:layout_marginTop="@dimen/fifteen"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="@dimen/ten" >
+
+                <Button
+                    android:id="@+id/btnsharecopy"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/invite_btnheight"
+                    android:layout_weight="1"
+                    android:background="@color/material_color_accent"
+                    android:singleLine="true"
+                    android:layout_margin="4dp"
+                    android:text="@string/screen_invite_friends_button_copy_id"
+                    android:textColor="@color/md_white_1000"
+                    android:textSize="@dimen/fraginvite_textsize" />
+
+                <Button
+                    android:id="@+id/btnshare"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/invite_btnheight"
+                    android:layout_weight="1"
+                    android:background="@color/material_color_primary_dark"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="@string/screen_invite_friends_button_share"
+                    android:textColor="@color/md_white_1000"
+                    android:textSize="@dimen/fraginvite_textsize"
+                    android:layout_margin="4dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

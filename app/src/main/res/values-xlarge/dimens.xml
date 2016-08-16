@@ -1,0 +1,66 @@
+<resources>
+
+    <dimen name="btnroundborder_width">8dp</dimen>
+    <dimen name="divider_size">4dp</dimen>
+    <dimen name="edittext_border_size">6dp</dimen>
+    <dimen name="seekbar_height">60dp</dimen>
+    <dimen name="progressbar_height">60dp</dimen>
+    <dimen name="seekbar_handel_width">80dp</dimen>
+    <dimen name="seekbar_handel_height">60dp</dimen>
+    <dimen name="editlayimg_edittextheight">90dp</dimen>
+    <dimen name="btn_login_height">120dp</dimen>
+    <dimen name="splasherrortextsize">44sp</dimen>
+    <dimen name="sliderdimen">480dp</dimen>
+    <dimen name="one">2dp</dimen>
+    <dimen name="three">6dp</dimen>
+    <dimen name="five">10dp</dimen>
+    <dimen name="seven">14dp</dimen>
+    <dimen name="ten">20dp</dimen>
+    <dimen name="fifteen">30dp</dimen>
+    <dimen name="seventeen">34dp</dimen>
+    <dimen name="twenty">40dp</dimen>
+    <dimen name="twentyfive">50dp</dimen>
+    <dimen name="login_headlogo">170dp</dimen>
+    <dimen name="btnheight">100dp</dimen>
+    <dimen name="register_btnheight">80dp</dimen>
+    <dimen name="dialog_btnheight">70dp</dimen>
+    <dimen name="register_btntextsize">36sp</dimen>
+    <dimen name="donthaveaccounttext">22sp</dimen>
+    <dimen name="signuptext">26sp</dimen>
+    <dimen name="actmain_margintop">120dp</dimen>
+    <dimen name="splashlogo">500dp</dimen>
+    <dimen name="splashlogomargintop">60dp</dimen>
+    <dimen name="lay_margintop">100dp</dimen>
+    <dimen name="ationbar_header">44sp</dimen>
+    <dimen name="divider_height">2dp</dimen>
+    <dimen name="invite_imgheightwidth">72dp</dimen>
+    <dimen name="fraginvite_btnwidth">340dp</dimen>
+    <dimen name="fraginvite_textsize">28sp</dimen>
+    <dimen name="fraginvite_btnheight">96dp</dimen>
+    <dimen name="invite_btnheight">100dp</dimen>
+    <dimen name="invite_btnwidth">240dp</dimen>
+    <dimen name="btninvitefriends_textsize">30sp</dimen>
+    <dimen name="textsizeearncredit_title">28sp</dimen>
+    <dimen name="textsizeearncredit_desc">24sp</dimen>
+    <dimen name="laytop_imgwidthheight">140dp</dimen>
+    <dimen name="laytop_textsize">32sp</dimen>
+    <dimen name="drawable_height">90dp</dimen>
+    <dimen name="drawable_imhheightwidth">60dp</dimen>
+    <dimen name="drawable_textsize">32sp</dimen>
+    <!-- .................XX...Phase 1...XX................. -->
+    <dimen name="two">4dp</dimen>
+    <dimen name="imgmenutop">140dp</dimen>
+    <dimen name="menubtnheight">100dp</dimen>
+    <dimen name="menubtntextsize">30sp</dimen>
+    <dimen name="menutextsize">44dp</dimen>
+    <dimen name="listgroupnametextsize">36sp</dimen>
+    <dimen name="listgroupitemtextsize">34sp</dimen>
+    <dimen name="listgroupitemcredittextsize">28sp</dimen>
+    <dimen name="expandlegrpheight">110dp</dimen>
+    <dimen name="listitemcreditswidth">230dp</dimen>
+    <dimen name="earncreditcreditswidth">200dp</dimen>
+    <dimen name="forgotpwd_btntextsize">32sp</dimen>
+    <dimen name="rewards_countrytextsize">36sp</dimen>
+    <!-- .................XX...Phase 1.Complete..XX................. -->
+
+</resources>

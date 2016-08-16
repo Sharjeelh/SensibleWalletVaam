@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/md_white_1000"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="@dimen/laytop_imgwidthheight"
+        android:layout_height="@dimen/laytop_imgwidthheight"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/app_icon"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:orientation="horizontal" >
+
+        <com.commonutility.RoundImageView android:id="@+id/image_view_country_flag"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="16dp"
+            android:src="@drawable/country_default_logo"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_margin="7dp"
+            android:background="@color/md_grey_300"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/credits_bar_credits_label"
+            android:textColor="@color/md_grey_700"
+            android:textSize="19sp"
+            android:fontFamily="sans-serif-thin"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/credit_wallet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="19sp"
+            android:layout_gravity="center"
+            android:textColor="@color/md_grey_700"
+            android:textStyle="normal"
+            android:padding="16dp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/md_grey_300"/>
+
+</LinearLayout>

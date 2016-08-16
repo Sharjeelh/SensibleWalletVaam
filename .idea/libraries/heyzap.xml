@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="heyzap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/heyzap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

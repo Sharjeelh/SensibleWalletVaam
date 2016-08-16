@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_white_1000"
+    android:layout_marginLeft="24dp"
+    android:layout_marginRight="24dp"
+    android:layout_marginTop="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="@dimen/invite_imgheightwidth"
+                android:layout_height="@dimen/invite_imgheightwidth"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="@dimen/five"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/app_icon" />
+
+            <TextView
+                android:id="@+id/text_invitetext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/five"
+                android:textSize="13sp"
+                android:text="Redeem text"
+                android:textColor="#000000" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp">
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintAnimationEnabled="true"
+                android:layout_marginTop="8dp"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColorHint="@color/material_color_primary"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp">
+
+                <EditText
+                    android:id="@+id/first_nameEdit"
+                    android:hint="First Name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:textSize="18sp"/>
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintAnimationEnabled="true"
+                android:layout_marginTop="8dp"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColorHint="@color/material_color_primary"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp">
+
+                <EditText
+                    android:id="@+id/last_nameEdit"
+                    android:hint="Last Name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:textSize="18sp"/>
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintAnimationEnabled="true"
+                android:layout_marginTop="8dp"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColorHint="@color/material_color_primary"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp">
+
+                <EditText
+                    android:id="@+id/email_editText"
+                    android:hint="@string/screen_register_hint_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textEmailAddress"
+                    android:singleLine="true"
+                    android:textSize="18sp"/>
+
+            </android.support.design.widget.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/five"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/disclaimer_paypal_redeem"
+            android:textColor="@color/md_white_1000"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:textSize="13sp"
+            android:background="@color/material_color_primary"
+            android:padding="16dp"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/ten"
+            android:layout_marginRight="@dimen/ten"
+            android:paddingLeft="@dimen/five"
+            android:background="#ffffff"
+            android:padding="@dimen/five" >
+
+         
+            <TextView
+                android:id="@+id/txt_invitationbelowcode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/five"
+                android:text="sdfs"
+                android:textColor="#242424"
+                android:visibility="gone"/>
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/bt_enter"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginTop="16dp"
+            android:background="@color/material_color_accent"
+            android:text="Redeem"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:textColor="@color/md_white_1000"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:textSize="@dimen/btnlogin_textsize" />
+
+    </LinearLayout>
+
+</ScrollView>

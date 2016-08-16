@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+
+    <LinearLayout android:id="@+id/list_offer_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <ImageView
+            android:id="@+id/imgcreditcompany"
+            android:layout_width="@dimen/invite_imgheightwidth"
+            android:layout_height="@dimen/invite_imgheightwidth"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:contentDescription="@string/app_name" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="start"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/txtname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/md_grey_900"
+                android:textSize="@dimen/textsizeearncredit_title"
+                android:text="Name" />
+
+            <TextView
+                android:id="@+id/txtdesc"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="2dp"
+                android:maxLines="4"
+                android:textColor="@color/md_grey_400"
+                android:textSize="@dimen/textsizeearncredit_desc"
+                android:text="This is a description of the offer and this is just a demo to show off 3 lines stacking correctly on top of each other"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginRight="24dp"
+            android:gravity="end"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/txtcredits"
+                android:layout_width="wrap_content"
+                android:text="200 Credits"
+                android:layout_height="wrap_content"
+                style="@style/TextAppearance.AppCompat.Button"
+                android:layout_marginLeft="16dp"
+                android:textColor="@color/material_color_primary"
+                android:textSize="@dimen/listgroupitemcredittextsize"
+                android:textStyle="normal" />
+            <TextView android:id="@+id/list_offer_badge_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/list_offer_badge"
+                android:textColor="@color/md_amber_700"
+                android:textSize="12sp"
+                android:visibility="gone"
+                android:text=""/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/nextArrow"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+            android:tint="@color/md_grey_300"
+            android:rotation="180"
+            android:layout_width="32dp"
+            android:visibility="gone"
+            android:layout_marginRight="16dp"
+            android:layout_gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_height="32dp"
+            android:contentDescription="@string/app_name"
+            android:padding="@dimen/two" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/greyLine"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@color/md_grey_300"
+        android:layout_below="@+id/list_offer_item_container"/>
+
+    <ImageView android:id="@+id/list_offer_badge"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="16dp"
+        android:tint="@color/md_amber_700"
+        android:src="@drawable/ic_featured"/>
+
+</RelativeLayout>

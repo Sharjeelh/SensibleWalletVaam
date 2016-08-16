@@ -1,0 +1,14 @@
+{
+  "units": [
+    {
+      "type": "banner"
+    },
+    {
+      "type": "interstitial"
+    },
+    {
+      "type": "interstitial",
+      "rewarded": true
+    }
+  ]
+}

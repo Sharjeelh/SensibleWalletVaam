@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\MyWork\Baam\SensibleWalletVaam\appGradeLib\src\main\assets"><file name="prefetch_config.json" path="F:\MyWork\Baam\SensibleWalletVaam\appGradeLib\src\main\assets\prefetch_config.json"/></source><source path="F:\MyWork\Baam\SensibleWalletVaam\appGradeLib\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="F:\MyWork\Baam\SensibleWalletVaam\appGradeLib\src\release\assets"/></dataSet></merger>

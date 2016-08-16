@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/top_points_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/five"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:paddingBottom="@dimen/five"
+            android:paddingTop="@dimen/five"
+            android:text="Country"
+            android:textColor="#fe4080"
+            android:textSize="@dimen/rewards_countrytextsize"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtcountry"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:paddingBottom="@dimen/five"
+            android:paddingTop="@dimen/five"
+            android:text="USA"
+            android:textColor="@color/material_color_primary_dark"
+            android:textSize="@dimen/rewards_countrytextsize"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ExpandableListView
+        android:id="@+id/lvExp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/md_white_1000"
+        android:cacheColorHint="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:divider="@color/md_white_1000"
+        android:groupIndicator="@null" />
+
+</LinearLayout>

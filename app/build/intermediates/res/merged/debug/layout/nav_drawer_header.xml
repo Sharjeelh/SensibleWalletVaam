@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_color_primary">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/drawer_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        app:titleTextAppearance="@style/AppTheme.Widget.Toolbar.Title"
+        android:theme="@style/AppTheme.Widget.Toolbar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:paddingBottom="0dp"
+        android:layout_margin="0dp"/>
+
+    <ImageView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_launcher"/>
+
+    <TextView android:id="@+id/nav_drawer_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="22sp"
+        android:textColor="@color/md_white_1000"
+        android:layout_marginTop="8dp"
+        android:text="Username"/>
+
+    <TextView android:id="@+id/nav_drawer_total_credits"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/md_white_1000"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"
+        android:text="Total Credits:"/>
+
+    <TextView android:id="@+id/nav_drawer_wallet_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/md_white_1000"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="8dp"
+        android:text="Wallet ID:"/>
+
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="google_play_services_version">6111000</integer>
+
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+
+</resources>

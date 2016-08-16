@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General settings -->
+    <string name="app_name">CashMobi</string>
+
+    <!-- API settings -->
+    <string name="api_adxmi_app_id">381357e6b31f4407</string>
+    <string name="api_adxmi_app_secret">0086792d1d6dcd2b</string>
+    <string name="sdk_facebook_app_id">530645470453571</string>
+    <string name="api_ascendmedia_publisher_id">105633</string>
+    <string name="api_ascendmedia_adwall_id">6475</string>
+    <string name="api_persona_app_id">84bd29a809d93f7d2f4e0e1a01a6517b</string>
+    <string name="api_cpalead_gateway_id">1084146</string>
+    <string name="api_cpalead_publisher_id">474955</string>
+    <string name="api_super_rewards_hash">pllqmxsqkfn.982657919947</string>
+    <string name="api_super_rewards_app_package_name">com.cashmobi</string>
+    <string name="api_super_sonic_app_key">50e33475</string>
+    <string name="api_trialpay_app_key">d43e2b8deb3b00c577f1881a0ec583ab</string>
+    <string name="api_tapjoy_sdk_key">NBUqOb4HSZKxzaM4K_xplAECHXWrThrfSlase2mggj2IC_yiiApJvRlz8Pxc</string>
+    <string name="api_vungle_app_id">57b29a7a7db6810b2e000049</string>
+    <string name="api_nativex_app_id">91043</string>
+    <!-- Unused API settings-->
+    <string name="api_ad_colony_app_id">appaa82055de35f4afc90</string>
+    <string name="api_ad_colony_zone_id">vz5d7a10a7209e4784b0</string>
+
+    <!--Coloration settings for the app -->
+    <color name="material_color_primary">@color/golden</color>
+    <color name="material_color_primary_dark">@color/golden_dark</color>
+    <color name="material_color_control_highlight">@color/golden_highlight</color>
+    <color name="material_color_accent">@color/golden_accent</color>
+    <color name="material_color_text_primary">@color/md_white_1000</color>
+
+
+    <string name="api_chartboost_app_id">56d88be4a8b63c607ca56522</string>
+    <string name="api_chartboost_app_signature">4137667b19d8d442a895ffbe33c90798033bed69</string>
+
+    <string name="applovin_sdk_key">hO8UPJwRCpTBUooTCdnUTz4QeD8DsG3XeB12UxTgl0tEpen_HXUmVZA8nJLdZOACaBF37klslc5XGsXXO1IubS</string>
+
+    <string name="heyzap_app_id">d3f795a66009bd68262f51ecc847879f</string>
+
+    <string name="revmob_media_id">56d89bd7d05d07ce76961927</string>
+
+    <string name="google_analytics_id">UA-74706740-1</string>
+    <string name="unity_ads_id">1045497</string>
+    <string name="unity_ads_debug_mode">false</string>
+    <string name="unity_ads_test_mode">false</string>
+    <string name="enable_email">false</string>
+    <string name="show_disclaimer">true</string>
+    <string name="show_rate_offer">true</string>
+
+
+
+</resources>

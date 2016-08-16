@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/md_white_1000" >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"
+        android:layout_marginLeft="72dp"
+        android:layout_marginRight="72dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:contentDescription="@string/app_name"
+        android:padding="@dimen/twenty"
+        android:src="@drawable/logo_splash" />
+
+    <TextView
+        android:id="@+id/tv_loadperc"
+        android:layout_width="match_parent"
+        android:layout_above="@+id/splash_title"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:fontFamily="sans-serif-thin"
+        android:textColor="@color/md_grey_700"
+        android:text="Percentage"
+        android:textSize="22sp" />
+
+    <TextView android:id="@+id/splash_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/app_name"
+        android:textSize="39sp"
+        android:fontFamily="sans-serif-thin"
+        android:textColor="@color/md_grey_500"
+        android:gravity="center"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingBottom="60dp" />
+
+</RelativeLayout>

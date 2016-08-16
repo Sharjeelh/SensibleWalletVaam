@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/imgcreditcompany"
+            android:layout_width="@dimen/fraginvite_btnheight"
+            android:layout_height="@dimen/fraginvite_btnheight"
+            android:layout_alignParentLeft="true"
+            android:contentDescription="@string/app_name"
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="6dp"
+            android:src="@drawable/app_icon" />
+
+        <ImageView android:id="@+id/list_offer_badge"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/ic_featured"
+            android:visibility="gone" />
+
+        <TextView android:id="@+id/list_offer_badge_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/list_offer_badge"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/md_black_1000"
+            android:textSize="12sp"
+
+            android:text=""
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/txtcardname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/txtcardcredits"
+            android:layout_toRightOf="@+id/imgcreditcompany"
+            android:gravity="center_vertical"
+            android:textColor="@color/md_black_1000"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtcardcredits"
+            android:layout_width="wrap_content"
+            android:text="200 Credits"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="24dp"
+            android:gravity="center"
+            style="@style/TextAppearance.AppCompat.Button"
+            android:layout_marginLeft="16dp"
+            android:textColor="@color/material_color_primary"
+            android:textSize="@dimen/listgroupitemcredittextsize"
+            android:textStyle="normal" />
+    </RelativeLayout>
+
+
+    <View
+        android:id="@+id/greyLine"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@color/md_grey_300" />
+
+</LinearLayout>

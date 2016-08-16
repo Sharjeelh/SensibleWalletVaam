@@ -1,0 +1,59 @@
+-keep class com.cashmobi.MyApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.chartboost.sdk.CBImpressionActivity { <init>(); }
+-keep class com.revmob.FullscreenActivity { <init>(); }
+-keep class com.applovin.adview.AppLovinInterstitialActivity { <init>(); }
+-keep class com.applovin.adview.AppLovinConfirmationActivity { <init>(); }
+-keep class com.cashmobi.ActivitySplashScreen { <init>(); }
+-keep class com.cashmobi.ActivityLogin { <init>(); }
+-keep class com.cashmobi.ActivityRegister { <init>(); }
+-keep class com.cashmobi.ActivityMainWallet { <init>(); }
+-keep class com.facebook.FacebookActivity { <init>(); }
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(); }
+-keep class com.cashmobi.NotificationReciver { <init>(); }
+-keep class com.cashmobi.GCMIntentService { <init>(); }
+-keep class com.appgrade.sdk.view.InterstitialActivity { <init>(); }
+-keep class com.supersonicads.sdk.controller.ControllerActivity { <init>(); }
+-keep class com.supersonicads.sdk.controller.InterstitialActivity { <init>(); }
+-keep class com.supersonicads.sdk.controller.OpenUrlActivity { <init>(); }
+-keep class com.trialpay.android.views.webcontainer.WebContainerActivity { <init>(); }
+-keep class com.trialpay.android.views.webcontainer.WebContainerPopupActivity { <init>(); }
+-keep class com.trialpay.android.views.videocontainer.VideoContainerActivity { <init>(); }
+-keep class ly.persona.sdk.OffersActivity { <init>(); }
+-keep class com.tapjoy.TJAdUnitActivity { <init>(); }
+-keep class com.tapjoy.mraid.view.ActionHandler { <init>(); }
+-keep class com.tapjoy.mraid.view.Browser { <init>(); }
+-keep class com.nativex.monetization.activities.InterstitialActivity { <init>(); }
+-keep class com.nativex.videoplayer.VideoActivity { <init>(); }
+-keep class com.playerize.superrewards.activities.SRWebViewActivity { <init>(); }
+-keep class com.adscendmedia.sdk.ui.OffersActivity { <init>(); }
+-keep class com.jirbo.adcolony.AdColonyOverlay { <init>(); }
+-keep class com.jirbo.adcolony.AdColonyFullscreen { <init>(); }
+-keep class com.jirbo.adcolony.AdColonyBrowser { <init>(); }
+-keep class com.vungle.publisher.FullScreenAdActivity { <init>(); }
+-keep class com.vungle.publisher.VideoFullScreenAdActivity { <init>(); }
+-keep class com.vungle.publisher.MraidFullScreenAdActivity { <init>(); }
+-keep class net.adxmi.android.AdBrowser { <init>(); }
+-keep class net.adxmi.android.AdService { <init>(); }
+-keep class net.adxmi.android.ExpService { <init>(); }
+-keep class net.adxmi.android.AdReceiver { <init>(); }
+-keep class com.heyzap.sdk.ads.HeyzapInterstitialActivity { <init>(); }
+-keep class com.heyzap.sdk.ads.HeyzapVideoActivity { <init>(); }
+-keep class com.heyzap.sdk.ads.HeyzapProxyActivity { <init>(); }
+-keep class com.heyzap.sdk.ads.VASTActivity { <init>(); }
+-keep class com.heyzap.sdk.ads.MediationTestActivity { <init>(); }
+-keep class com.heyzap.sdk.ads.PackageAddedReceiver { <init>(); }
+-keep class com.facebook.CustomTabActivity { <init>(); }
+-keep class com.unity3d.ads.android.view.UnityAdsFullscreenActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

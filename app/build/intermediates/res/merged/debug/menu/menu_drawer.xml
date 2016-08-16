@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/drawer_edit_profile"
+            android:title="@string/drawer_edit_profile"/>
+        <item
+            android:id="@+id/drawer_home"
+            android:checked="true"
+            android:title="@string/drawer_home"/>
+        <item
+            android:id="@+id/drawer_input_code"
+            android:title="@string/drawer_input_code"/>
+        <item
+            android:id="@+id/drawer_view_invited_friends"
+            android:title="@string/drawer_invited_friends" />
+        <item
+            android:id="@+id/drawer_offer_history"
+            android:title="@string/drawer_offer_history"/>
+        <item
+            android:id="@+id/drawer_reward_history"
+            android:title="@string/drawer_reward_history"/>
+        <item
+            android:id="@+id/drawer_rate"
+            android:title="@string/drawer_rate"/>
+        <item
+            android:id="@+id/drawer_check_updates"
+            android:title="@string/drawer_check_updates"/>
+        <item
+            android:id="@+id/drawer_faq"
+            android:title="@string/drawer_faq"/>
+        <item
+            android:id="@+id/drawer_terms"
+            android:title="@string/drawer_terms"/>
+        <item
+            android:id="@+id/drawer_assistance"
+            android:title="@string/drawer_assistance"/>
+       <!-- <item android:id="@+id/drawer_design"
+            android:title="@string/drawer_design_credit" />-->
+        <item
+            android:id="@+id/drawer_logout"
+            android:title="@string/drawer_logout" />
+    </group>
+</menu>
