@@ -2,7 +2,7 @@
 <resources>
 
     <!-- General settings -->
-    <string name="app_name">CashMobi</string>
+    <string name="app_name">Woody Wallet</string>
 
     <!-- API settings -->
     <string name="api_adxmi_app_id">381357e6b31f4407</string>
@@ -25,8 +25,8 @@
     <string name="api_ad_colony_zone_id">vz5d7a10a7209e4784b0</string>
 
     <!--Coloration settings for the app -->
-    <color name="material_color_primary">@color/golden</color>
-    <color name="material_color_primary_dark">@color/golden_dark</color>
+    <color name="material_color_primary">@color/pink</color>
+    <color name="material_color_primary_dark">@color/pink_dark</color>
     <color name="material_color_control_highlight">@color/golden_highlight</color>
     <color name="material_color_accent">@color/golden_accent</color>
     <color name="material_color_text_primary">@color/md_white_1000</color>

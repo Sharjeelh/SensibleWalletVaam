@@ -221,10 +221,8 @@
     <color name="fontcolorepaymentlistitem">#000000</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <color name="golden">#FFC700</color>
-    <color name="golden_accent">#FFC53A</color>
-    <color name="golden_dark">#FFC700</color>
-    <color name="golden_highlight">#FFE548</color>
+    <color name="golden_accent">#ca1d58</color>
+    <color name="golden_highlight">#eb2f6f</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
@@ -234,8 +232,8 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_color_accent">@color/golden_accent</color>
     <color name="material_color_control_highlight">@color/golden_highlight</color>
-    <color name="material_color_primary">@color/golden</color>
-    <color name="material_color_primary_dark">@color/golden_dark</color>
+    <color name="material_color_primary">@color/pink</color>
+    <color name="material_color_primary_dark">@color/pink_dark</color>
     <color name="material_color_text_primary">@color/md_white_1000</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
@@ -502,6 +500,8 @@
     <color name="md_yellow_A200">#FFFF00</color>
     <color name="md_yellow_A400">#FFEA00</color>
     <color name="md_yellow_A700">#FFD600</color>
+    <color name="pink">#eb2f6f</color>
+    <color name="pink_dark">#ca1d58</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
@@ -825,7 +825,7 @@
     <string name="api_tapjoy_sdk_key">NBUqOb4HSZKxzaM4K_xplAECHXWrThrfSlase2mggj2IC_yiiApJvRlz8Pxc</string>
     <string name="api_trialpay_app_key">d43e2b8deb3b00c577f1881a0ec583ab</string>
     <string name="api_vungle_app_id">57b29a7a7db6810b2e000049</string>
-    <string name="app_name">CashMobi</string>
+    <string name="app_name">Woody Wallet</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applovin_sdk_key">hO8UPJwRCpTBUooTCdnUTz4QeD8DsG3XeB12UxTgl0tEpen_HXUmVZA8nJLdZOACaBF37klslc5XGsXXO1IubS</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b>&lt;br />on your smartphone or computer&lt;br />and enter this code</string>
@@ -957,8 +957,8 @@
     <string name="screen_input_friend_id_hint_invitation_code">Friend\'s Invitation Code</string>
     <string name="screen_invite_friends_button_copy_id">Copy Invitation ID</string>
     <string name="screen_invite_friends_button_share">Share</string>
-    <string name="screen_invite_friends_instruction_1">Share your CashMobi Id with Your Friends on Social Media and Earn Big!</string>
-    <string name="screen_invite_friends_instruction_2">Your Friend Installs CashMobi and Enters Your Invitation ID after earning 400 Credits under Earn Credits!"</string>
+    <string name="screen_invite_friends_instruction_1">Share your Woody Wallet Id with Your Friends on Social Media and Earn Big!</string>
+    <string name="screen_invite_friends_instruction_2">Your Friend Installs Woody Wallet and Enters Your Invitation ID after earning 400 Credits under Earn Credits!"</string>
     <string name="screen_invite_friends_instruction_3">Your Friend Receives 200 Credits and \n You Receive 200 Credits For Every Friend You Invite!</string>
     <string name="screen_invite_friends_invitation_id_label">Invitation ID:</string>
     <string name="screen_login_button_facebook_login">Facebook Connect</string>
@@ -967,7 +967,7 @@
     <string name="screen_login_button_login">Login</string>
     <string name="screen_login_button_sign_up">Sign-up</string>
     <string name="screen_login_or_label">Or</string>
-    <string name="screen_login_welcome_label">Welcome to CashMobi!</string>
+    <string name="screen_login_welcome_label">Welcome to Woody Wallet!</string>
     <string name="screen_register_button_start">Start Earning</string>
     <string name="screen_register_hint_confirm_password">Confirm Password</string>
     <string name="screen_register_hint_email">Email Address</string>
@@ -1009,7 +1009,7 @@
     <string name="unityads_video_end_suffix">seconds</string>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
     <string name="welcome_disclaimer_message">Disclaimer: After you Earn 400 Credits, You can Enter Your Friend\'s Invite ID to Earn an additional 200 Credits! Share Your Invite ID to Earn More!</string>
-    <string name="welcome_disclaimer_title">Welcome to CashMobi!</string>
+    <string name="welcome_disclaimer_title">Welcome to Woody Wallet!</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

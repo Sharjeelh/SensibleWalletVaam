@@ -8,12 +8,12 @@
         "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-mdpi-v4\\com_facebook_button_icon_white.png"
     },
     {
-        "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-mdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
@@ -1162,10 +1162,6 @@
     {
         "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
         "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",

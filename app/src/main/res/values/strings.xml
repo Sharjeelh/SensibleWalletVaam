@@ -37,7 +37,7 @@
     <string name="drawer_input_code">Input Invitation Code</string>
 
     <!-- String settings for the Login screen -->
-    <string name="screen_login_welcome_label">Welcome to CashMobi!</string>
+    <string name="screen_login_welcome_label">Welcome to Woody Wallet!</string>
     <string name="screen_login_button_facebook_login">Facebook Connect</string>
     <string name="screen_login_button_google_login">SIGN IN</string>
     <string name="screen_login_button_google_login_long">SIGN IN WITH GOOGLE</string>
@@ -56,8 +56,8 @@
 
     <!-- String settings for the "Invite Friends (Connect)" screen -->
     <string name="screen_invite_friends_invitation_id_label">Invitation ID:</string>
-    <string name="screen_invite_friends_instruction_1">Share your CashMobi Id with Your Friends on Social Media and Earn Big!</string>
-    <string name="screen_invite_friends_instruction_2">Your Friend Installs CashMobi and Enters Your Invitation ID after earning 400 Credits under Earn Credits!"</string>
+    <string name="screen_invite_friends_instruction_1">Share your Woody Wallet Id with Your Friends on Social Media and Earn Big!</string>
+    <string name="screen_invite_friends_instruction_2">Your Friend Installs Woody Wallet and Enters Your Invitation ID after earning 400 Credits under Earn Credits!"</string>
     <string name="screen_invite_friends_instruction_3">Your Friend Receives 200 Credits and \n You Receive 200 Credits For Every Friend You Invite!</string>
     <string name="screen_invite_friends_button_copy_id">Copy Invitation ID</string>
     <string name="screen_invite_friends_button_share">Share</string>
@@ -128,7 +128,7 @@
     <string name="credits_bar_credits_label">Total Credits:</string>
     <string name="offer_adcolony">AdColony</string>
     <string name="please_login_in">Please Login or Signup using a confirmed Facebook or Google account to start earning Paypal cash and gift cards!</string>
-    <string name="welcome_disclaimer_title">Welcome to CashMobi!</string>
+    <string name="welcome_disclaimer_title">Welcome to Woody Wallet!</string>
     <string name="welcome_disclaimer_message">Disclaimer: After you Earn 400 Credits, You can Enter Your Friend\'s Invite ID to Earn an additional 200 Credits! Share Your Invite ID to Earn More!</string>
 
 

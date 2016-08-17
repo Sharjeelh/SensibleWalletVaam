@@ -1,5 +1,5 @@
--injars 'F:\MyWork\Sensible Wallet_Package_3\SensibleWallet\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
--outjars 'F:\MyWork\Sensible Wallet_Package_3\SensibleWallet\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+-injars 'F:\MyWork\Baam\SensibleWalletVaam\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'F:\MyWork\Baam\SensibleWalletVaam\app\build\intermediates\multi-dex\debug\componentClasses.jar'
 
 -libraryjars 'J:\Android\SDK\build-tools\23.0.1\lib\shrinkedAndroid.jar'
 
@@ -10,7 +10,7 @@
 -dontpreverify
 -dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
 -dontwarn **
--printconfiguration 'F:\MyWork\Sensible Wallet_Package_3\SensibleWallet\app\build\intermediates\multi-dex\debug\components.flags'
+-printconfiguration 'F:\MyWork\Baam\SensibleWalletVaam\app\build\intermediates\multi-dex\debug\components.flags'
 
 
 -keep class com.cashmobi.MyApplication {
