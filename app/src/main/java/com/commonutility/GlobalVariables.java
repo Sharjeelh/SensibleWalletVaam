@@ -2,7 +2,7 @@ package com.commonutility;
 
 public class GlobalVariables {
 	//	http://www.archiveinfotechdevelopers.com/developers/wallet/admin/index.php/api_new/register
-	public static final String  PRE_URL			= "http://cashmobirewards.com/cashmobi/admin/index.php/api_new/";
+	public static final String  PRE_URL			= "http://woodywallet.com/sensible_wallet/admin/index.php/api_new/";
 	public static final String  LOGIN	 		= "login_authentication";
 	public static final String  LOGIN_GCM_ID	= "login_authentication";
 	public static final String  REGISTER 		= "register";
