@@ -30,7 +30,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.cashmobi.R;
+import com.woodywallet.R;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

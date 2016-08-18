@@ -1,5 +1,1226 @@
 [
     {
+        "outputFile": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 104,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 104,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 107,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 107,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 122,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 122,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 98,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 98,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 111,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 111,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 89,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 89,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 105,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 105,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 119,
+                    "endOffset": 963
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 119,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 968,
+                    "endColumn": 78,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 78,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 106,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1222,
+                        "endColumn": 106,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 104,
+                    "endOffset": 1254
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 104,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1259,
+                    "endColumn": 95,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1434,
+                        "endColumn": 95,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endColumn": 106,
+                    "endOffset": 1457
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1530,
+                        "endColumn": 106,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1462,
+                    "endColumn": 101,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 101,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endColumn": 107,
+                    "endOffset": 1667
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endColumn": 107,
+                        "endOffset": 1842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1672,
+                    "endColumn": 118,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endColumn": 118,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1791,
+                    "endColumn": 97,
+                    "endOffset": 1884
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1966,
+                        "endColumn": 97,
+                        "endOffset": 2059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1889,
+                    "endColumn": 136,
+                    "endOffset": 2021
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 136,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2026,
+                    "endColumn": 107,
+                    "endOffset": 2129
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 107,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2134,
+                    "endColumn": 116,
+                    "endOffset": 2246
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 116,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2251,
+                    "endColumn": 95,
+                    "endOffset": 2342
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 95,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2347,
+                    "endColumn": 67,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 67,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2415,
+                    "endColumn": 68,
+                    "endOffset": 2479
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 68,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2484,
+                    "endColumn": 62,
+                    "endOffset": 2542
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 62,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2547,
+                    "endColumn": 70,
+                    "endOffset": 2613
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 70,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2618,
+                    "endColumn": 74,
+                    "endOffset": 2688
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 784,
+                        "endColumn": 74,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2693,
+                    "endColumn": 92,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 92,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endColumn": 75,
+                    "endOffset": 2857
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 952,
+                        "endColumn": 75,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2862,
+                    "endColumn": 75,
+                    "endOffset": 2933
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 75,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2938,
+                    "endColumn": 81,
+                    "endOffset": 3015
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 81,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3020,
+                    "endColumn": 102,
+                    "endOffset": 3118
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 102,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3123,
+                    "endColumn": 64,
+                    "endOffset": 3183
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 64,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3188,
+                    "endColumn": 65,
+                    "endOffset": 3249
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 65,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3254,
+                    "endColumn": 126,
+                    "endOffset": 3376
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 126,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3381,
+                    "endColumn": 185,
+                    "endOffset": 3562
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 185,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3567,
+                    "endColumn": 161,
+                    "endOffset": 3724
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 161,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3729,
+                    "endColumn": 115,
+                    "endOffset": 3840
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 115,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3845,
+                    "endColumn": 136,
+                    "endOffset": 3977
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 136,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3982,
+                    "endColumn": 161,
+                    "endOffset": 4139
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 161,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4144,
+                    "endColumn": 134,
+                    "endOffset": 4274
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 868,
+                        "endColumn": 134,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4279,
+                    "endColumn": 172,
+                    "endOffset": 4447
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 172,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4452,
+                    "endColumn": 130,
+                    "endOffset": 4578
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1176,
+                        "endColumn": 130,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4583,
+                    "endColumn": 201,
+                    "endOffset": 4780
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 201,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4785,
+                    "endColumn": 201,
+                    "endOffset": 4982
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 201,
+                        "endOffset": 1706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4987,
+                    "endColumn": 129,
+                    "endOffset": 5112
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1711,
+                        "endColumn": 129,
+                        "endOffset": 1836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5117,
+                    "endColumn": 179,
+                    "endOffset": 5292
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1841,
+                        "endColumn": 179,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5297,
+                    "endColumn": 122,
+                    "endOffset": 5415
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 122,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5420,
+                    "endColumn": 177,
+                    "endOffset": 5593
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2144,
+                        "endColumn": 177,
+                        "endOffset": 2317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5598,
+                    "endColumn": 175,
+                    "endOffset": 5769
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2322,
+                        "endColumn": 175,
+                        "endOffset": 2493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5774,
+                    "endColumn": 115,
+                    "endOffset": 5885
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2498,
+                        "endColumn": 115,
+                        "endOffset": 2609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5890,
+                    "endColumn": 190,
+                    "endOffset": 6076
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2614,
+                        "endColumn": 190,
+                        "endOffset": 2800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6081,
+                    "endColumn": 188,
+                    "endOffset": 6265
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2805,
+                        "endColumn": 188,
+                        "endOffset": 2989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6270,
+                    "endColumn": 135,
+                    "endOffset": 6401
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2994,
+                        "endColumn": 135,
+                        "endOffset": 3125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6406,
+                    "endColumn": 150,
+                    "endOffset": 6552
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3130,
+                        "endColumn": 150,
+                        "endOffset": 3276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6557,
+                    "endColumn": 245,
+                    "endOffset": 6798
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3281,
+                        "endColumn": 245,
+                        "endOffset": 3522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6803,
+                    "endColumn": 126,
+                    "endOffset": 6925
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3527,
+                        "endColumn": 126,
+                        "endOffset": 3649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6930,
+                    "endColumn": 108,
+                    "endOffset": 7034
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3654,
+                        "endColumn": 108,
+                        "endOffset": 3758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7039,
+                    "endColumn": 156,
+                    "endOffset": 7191
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3763,
+                        "endColumn": 156,
+                        "endOffset": 3915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7196,
+                    "endColumn": 132,
+                    "endOffset": 7324
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3920,
+                        "endColumn": 132,
+                        "endOffset": 4048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7329,
+                    "endColumn": 90,
+                    "endOffset": 7415
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4053,
+                        "endColumn": 90,
+                        "endOffset": 4139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7420,
+                    "endColumn": 93,
+                    "endOffset": 7509
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4144,
+                        "endColumn": 93,
+                        "endOffset": 4233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7514,
+                    "endColumn": 109,
+                    "endOffset": 7619
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4238,
+                        "endColumn": 109,
+                        "endOffset": 4343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7624,
+                    "endColumn": 61,
+                    "endOffset": 7681
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endColumn": 61,
+                        "endOffset": 1604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7686,
+                    "endColumn": 100,
+                    "endOffset": 7782
+                },
+                "from": {
+                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2064,
+                        "endColumn": 100,
+                        "endOffset": 2160
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\values-tr\\values-tr.xml",
         "map": [
             {
@@ -1221,7 +2442,7 @@
         ]
     },
     {
-        "outputFile": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\values-tr\\values-tr.xml",
+        "outputFile": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\values-tr\\values-tr.xml",
         "map": [
             {
                 "to": {
@@ -1232,7 +2453,7 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1251,7 +2472,7 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1270,7 +2491,7 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1289,7 +2510,7 @@
                     "endOffset": 535
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1308,7 +2529,7 @@
                     "endOffset": 647
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1327,7 +2548,7 @@
                     "endOffset": 737
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1346,7 +2567,7 @@
                     "endOffset": 843
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1365,7 +2586,7 @@
                     "endOffset": 963
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1384,7 +2605,7 @@
                     "endOffset": 1042
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1403,7 +2624,7 @@
                     "endOffset": 1149
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1422,7 +2643,7 @@
                     "endOffset": 1254
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1441,7 +2662,7 @@
                     "endOffset": 1350
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1460,7 +2681,7 @@
                     "endOffset": 1457
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1479,7 +2700,7 @@
                     "endOffset": 1559
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1498,7 +2719,7 @@
                     "endOffset": 1667
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1517,7 +2738,7 @@
                     "endOffset": 1786
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1536,7 +2757,7 @@
                     "endOffset": 1884
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1551,17 +2772,17 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1889,
-                    "endColumn": 136,
-                    "endOffset": 2021
+                    "endColumn": 175,
+                    "endOffset": 2060
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 136,
-                        "endOffset": 187
+                        "endColumn": 175,
+                        "endOffset": 226
                     }
                 }
             },
@@ -1569,18 +2790,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2026,
+                    "startOffset": 2065,
                     "endColumn": 107,
-                    "endOffset": 2129
+                    "endOffset": 2168
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 192,
+                        "startOffset": 231,
                         "endColumn": 107,
-                        "endOffset": 295
+                        "endOffset": 334
                     }
                 }
             },
@@ -1588,18 +2809,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2134,
+                    "startOffset": 2173,
                     "endColumn": 116,
-                    "endOffset": 2246
+                    "endOffset": 2285
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 300,
+                        "startOffset": 339,
                         "endColumn": 116,
-                        "endOffset": 412
+                        "endOffset": 451
                     }
                 }
             },
@@ -1607,18 +2828,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2251,
+                    "startOffset": 2290,
                     "endColumn": 95,
-                    "endOffset": 2342
+                    "endOffset": 2381
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 417,
+                        "startOffset": 456,
                         "endColumn": 95,
-                        "endOffset": 508
+                        "endOffset": 547
                     }
                 }
             },
@@ -1626,18 +2847,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2347,
+                    "startOffset": 2386,
                     "endColumn": 67,
-                    "endOffset": 2410
+                    "endOffset": 2449
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 513,
+                        "startOffset": 552,
                         "endColumn": 67,
-                        "endOffset": 576
+                        "endOffset": 615
                     }
                 }
             },
@@ -1645,18 +2866,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2415,
+                    "startOffset": 2454,
                     "endColumn": 68,
-                    "endOffset": 2479
+                    "endOffset": 2518
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 581,
+                        "startOffset": 620,
                         "endColumn": 68,
-                        "endOffset": 645
+                        "endOffset": 684
                     }
                 }
             },
@@ -1664,18 +2885,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2484,
+                    "startOffset": 2523,
                     "endColumn": 62,
-                    "endOffset": 2542
+                    "endOffset": 2581
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 650,
+                        "startOffset": 689,
                         "endColumn": 62,
-                        "endOffset": 708
+                        "endOffset": 747
                     }
                 }
             },
@@ -1683,18 +2904,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2547,
+                    "startOffset": 2586,
                     "endColumn": 70,
-                    "endOffset": 2613
+                    "endOffset": 2652
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 713,
+                        "startOffset": 752,
                         "endColumn": 70,
-                        "endOffset": 779
+                        "endOffset": 818
                     }
                 }
             },
@@ -1702,18 +2923,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2618,
+                    "startOffset": 2657,
                     "endColumn": 74,
-                    "endOffset": 2688
+                    "endOffset": 2727
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 784,
+                        "startOffset": 823,
                         "endColumn": 74,
-                        "endOffset": 854
+                        "endOffset": 893
                     }
                 }
             },
@@ -1721,18 +2942,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2693,
+                    "startOffset": 2732,
                     "endColumn": 92,
-                    "endOffset": 2781
+                    "endOffset": 2820
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 859,
+                        "startOffset": 898,
                         "endColumn": 92,
-                        "endOffset": 947
+                        "endOffset": 986
                     }
                 }
             },
@@ -1740,18 +2961,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2786,
+                    "startOffset": 2825,
                     "endColumn": 75,
-                    "endOffset": 2857
+                    "endOffset": 2896
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 952,
+                        "startOffset": 991,
                         "endColumn": 75,
-                        "endOffset": 1023
+                        "endOffset": 1062
                     }
                 }
             },
@@ -1759,18 +2980,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2862,
+                    "startOffset": 2901,
                     "endColumn": 75,
-                    "endOffset": 2933
+                    "endOffset": 2972
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1028,
+                        "startOffset": 1067,
                         "endColumn": 75,
-                        "endOffset": 1099
+                        "endOffset": 1138
                     }
                 }
             },
@@ -1778,18 +2999,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2938,
+                    "startOffset": 2977,
                     "endColumn": 81,
-                    "endOffset": 3015
+                    "endOffset": 3054
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1104,
+                        "startOffset": 1143,
                         "endColumn": 81,
-                        "endOffset": 1181
+                        "endOffset": 1220
                     }
                 }
             },
@@ -1797,18 +3018,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3020,
+                    "startOffset": 3059,
                     "endColumn": 102,
-                    "endOffset": 3118
+                    "endOffset": 3157
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1186,
+                        "startOffset": 1225,
                         "endColumn": 102,
-                        "endOffset": 1284
+                        "endOffset": 1323
                     }
                 }
             },
@@ -1816,18 +3037,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3123,
+                    "startOffset": 3162,
                     "endColumn": 64,
-                    "endOffset": 3183
+                    "endOffset": 3222
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1289,
+                        "startOffset": 1328,
                         "endColumn": 64,
-                        "endOffset": 1349
+                        "endOffset": 1388
                     }
                 }
             },
@@ -1835,18 +3056,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3188,
+                    "startOffset": 3227,
                     "endColumn": 65,
-                    "endOffset": 3249
+                    "endOffset": 3288
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1354,
+                        "startOffset": 1393,
                         "endColumn": 65,
-                        "endOffset": 1415
+                        "endOffset": 1454
                     }
                 }
             },
@@ -1854,18 +3075,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 3254,
+                    "startOffset": 3293,
                     "endColumn": 126,
-                    "endOffset": 3376
+                    "endOffset": 3415
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1420,
+                        "startOffset": 1459,
                         "endColumn": 126,
-                        "endOffset": 1542
+                        "endOffset": 1581
                     }
                 }
             },
@@ -1873,12 +3094,12 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3381,
+                    "startOffset": 3420,
                     "endColumn": 185,
-                    "endOffset": 3562
+                    "endOffset": 3601
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1892,12 +3113,12 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3567,
+                    "startOffset": 3606,
                     "endColumn": 161,
-                    "endOffset": 3724
+                    "endOffset": 3763
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1911,12 +3132,12 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3729,
+                    "startOffset": 3768,
                     "endColumn": 115,
-                    "endOffset": 3840
+                    "endOffset": 3879
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1930,12 +3151,12 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3845,
+                    "startOffset": 3884,
                     "endColumn": 136,
-                    "endOffset": 3977
+                    "endOffset": 4016
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1949,12 +3170,12 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3982,
+                    "startOffset": 4021,
                     "endColumn": 161,
-                    "endOffset": 4139
+                    "endOffset": 4178
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1968,12 +3189,12 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4144,
+                    "startOffset": 4183,
                     "endColumn": 134,
-                    "endOffset": 4274
+                    "endOffset": 4313
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1987,12 +3208,12 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 4279,
+                    "startOffset": 4318,
                     "endColumn": 172,
-                    "endOffset": 4447
+                    "endOffset": 4486
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2006,12 +3227,12 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 4452,
+                    "startOffset": 4491,
                     "endColumn": 130,
-                    "endOffset": 4578
+                    "endOffset": 4617
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -2025,12 +3246,12 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 4583,
+                    "startOffset": 4622,
                     "endColumn": 201,
-                    "endOffset": 4780
+                    "endOffset": 4819
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -2044,12 +3265,12 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 4785,
+                    "startOffset": 4824,
                     "endColumn": 201,
-                    "endOffset": 4982
+                    "endOffset": 5021
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2063,12 +3284,12 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 4987,
+                    "startOffset": 5026,
                     "endColumn": 129,
-                    "endOffset": 5112
+                    "endOffset": 5151
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2082,12 +3303,12 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 5117,
+                    "startOffset": 5156,
                     "endColumn": 179,
-                    "endOffset": 5292
+                    "endOffset": 5331
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -2101,12 +3322,12 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 5297,
+                    "startOffset": 5336,
                     "endColumn": 122,
-                    "endOffset": 5415
+                    "endOffset": 5454
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2120,12 +3341,12 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 5420,
+                    "startOffset": 5459,
                     "endColumn": 177,
-                    "endOffset": 5593
+                    "endOffset": 5632
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -2139,12 +3360,12 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 5598,
+                    "startOffset": 5637,
                     "endColumn": 175,
-                    "endOffset": 5769
+                    "endOffset": 5808
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -2158,12 +3379,12 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 5774,
+                    "startOffset": 5813,
                     "endColumn": 115,
-                    "endOffset": 5885
+                    "endOffset": 5924
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2177,12 +3398,12 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 5890,
+                    "startOffset": 5929,
                     "endColumn": 190,
-                    "endOffset": 6076
+                    "endOffset": 6115
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -2196,12 +3417,12 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 6081,
+                    "startOffset": 6120,
                     "endColumn": 188,
-                    "endOffset": 6265
+                    "endOffset": 6304
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2215,12 +3436,12 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 6270,
+                    "startOffset": 6309,
                     "endColumn": 135,
-                    "endOffset": 6401
+                    "endOffset": 6440
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -2234,12 +3455,12 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 6406,
+                    "startOffset": 6445,
                     "endColumn": 150,
-                    "endOffset": 6552
+                    "endOffset": 6591
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -2253,12 +3474,12 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 6557,
+                    "startOffset": 6596,
                     "endColumn": 245,
-                    "endOffset": 6798
+                    "endOffset": 6837
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -2272,12 +3493,12 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 6803,
+                    "startOffset": 6842,
                     "endColumn": 126,
-                    "endOffset": 6925
+                    "endOffset": 6964
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -2291,12 +3512,12 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 6930,
+                    "startOffset": 6969,
                     "endColumn": 108,
-                    "endOffset": 7034
+                    "endOffset": 7073
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -2310,12 +3531,12 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 7039,
+                    "startOffset": 7078,
                     "endColumn": 156,
-                    "endOffset": 7191
+                    "endOffset": 7230
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -2329,12 +3550,12 @@
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 7196,
+                    "startOffset": 7235,
                     "endColumn": 132,
-                    "endOffset": 7324
+                    "endOffset": 7363
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -2348,12 +3569,12 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 7329,
+                    "startOffset": 7368,
                     "endColumn": 90,
-                    "endOffset": 7415
+                    "endOffset": 7454
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -2367,12 +3588,12 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 7420,
+                    "startOffset": 7459,
                     "endColumn": 93,
-                    "endOffset": 7509
+                    "endOffset": 7548
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -2386,12 +3607,12 @@
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 7514,
+                    "startOffset": 7553,
                     "endColumn": 109,
-                    "endOffset": 7619
+                    "endOffset": 7658
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -2405,18 +3626,18 @@
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 7624,
+                    "startOffset": 7663,
                     "endColumn": 61,
-                    "endOffset": 7681
+                    "endOffset": 7720
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1547,
+                        "startOffset": 1586,
                         "endColumn": 61,
-                        "endOffset": 1604
+                        "endOffset": 1643
                     }
                 }
             },
@@ -2424,12 +3645,12 @@
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 7686,
+                    "startOffset": 7725,
                     "endColumn": 100,
-                    "endOffset": 7782
+                    "endOffset": 7821
                 },
                 "from": {
-                    "file": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

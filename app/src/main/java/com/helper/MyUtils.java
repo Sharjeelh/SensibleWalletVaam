@@ -5,7 +5,7 @@ import android.content.Context;
 
 import com.google.android.gms.analytics.HitBuilders;
 import com.google.android.gms.analytics.Tracker;
-import com.cashmobi.MyApplication;
+import com.woodywallet.MyApplication;
 
 /**
  * Created by nikhil on 3/4/16.

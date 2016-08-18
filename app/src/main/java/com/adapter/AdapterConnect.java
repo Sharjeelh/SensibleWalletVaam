@@ -15,8 +15,8 @@ import android.widget.TextView;
 import com.archiveinfotech.crashreport.Utils;
 import com.commonutility.GlobalData;
 import com.model.ConnectModel;
-import com.cashmobi.ConnectSocialFragment;
-import com.cashmobi.R;
+import com.woodywallet.ConnectSocialFragment;
+import com.woodywallet.R;
 import com.squareup.picasso.Callback.EmptyCallback;
 import com.squareup.picasso.Picasso;
 

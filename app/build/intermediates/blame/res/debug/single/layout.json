@@ -8,28 +8,28 @@
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\layout\\fragment_redeem_reward.xml"
     },
     {
-        "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
-        "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\layout\\com_facebook_activity_layout.xml"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unityads_view_video_play.xml",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\unity-ads\\unspecified\\res\\layout\\unityads_view_video_play.xml"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+        "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\layout\\com_facebook_activity_layout.xml"
     },
     {
         "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_country_list_item.xml",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\layout\\select_country_list_item.xml"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\layout\\dialog_progress.xml"
     },
     {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_forgot_password.xml",
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\layout\\dialog_forgot_password.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_country_list_item.xml",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\layout\\select_country_list_item.xml"
     },
     {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_country_dialog.xml",
@@ -80,16 +80,16 @@
         "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\layout\\fragment_faq.xml"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\layout\\messenger_button_send_white_round.xml"
     },
     {
         "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
-        "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\layout\\messenger_button_send_white_round.xml"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",

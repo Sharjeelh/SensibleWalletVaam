@@ -1,11 +1,11 @@
 [
     {
-        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
@@ -80,12 +80,12 @@
         "source": "F:\\MyWork\\Sensible Wallet_Package_3\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable\\messenger_button_white_bg_round.xml"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custome_progress_dilog_bg.xml",
@@ -128,12 +128,12 @@
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\drawable\\ic_dollar_ss.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_daily_reward.png",

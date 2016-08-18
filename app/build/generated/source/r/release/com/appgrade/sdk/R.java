@@ -159,10 +159,10 @@ public final class R {
 		public static final int YellowGreen = 0x7f0a008f;
 	}
 	public static final class drawable {
-		public static final int ic_action_av_replay = 0x7f02007a;
-		public static final int ic_action_device_screen_rotation = 0x7f02007b;
-		public static final int ic_action_navigation_menu = 0x7f02007c;
-		public static final int ic_button_close = 0x7f02007d;
+		public static final int ic_action_av_replay = 0x7f02007c;
+		public static final int ic_action_device_screen_rotation = 0x7f02007d;
+		public static final int ic_action_navigation_menu = 0x7f02007e;
+		public static final int ic_button_close = 0x7f02007f;
 	}
 	public static final class id {
 		public static final int inline = 0x7f0b0018;
@@ -170,7 +170,7 @@ public final class R {
 	}
 	public static final class string {
 		public static final int app_name = 0x7f050054;
-		public static final int prefs_rewarded_key = 0x7f05009e;
+		public static final int prefs_rewarded_key = 0x7f0500a1;
 	}
 	public static final class style {
 		public static final int InterstitialDialogTheme = 0x7f0700be;

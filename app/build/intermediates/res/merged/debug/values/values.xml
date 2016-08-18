@@ -809,8 +809,8 @@
     <string name="accept">Accept</string>
     <string name="api_ad_colony_app_id">appaa82055de35f4afc90</string>
     <string name="api_ad_colony_zone_id">vz5d7a10a7209e4784b0</string>
-    <string name="api_adxmi_app_id">381357e6b31f4407</string>
-    <string name="api_adxmi_app_secret">0086792d1d6dcd2b</string>
+    <string name="api_adxmi_app_id">b8464b089ccb8451</string>
+    <string name="api_adxmi_app_secret">88fd5a5d03693e7c</string>
     <string name="api_ascendmedia_adwall_id">6475</string>
     <string name="api_ascendmedia_publisher_id">105633</string>
     <string name="api_chartboost_app_id">56d88be4a8b63c607ca56522</string>
@@ -975,7 +975,7 @@
     <string name="screen_register_hint_last_name">Last Name</string>
     <string name="screen_register_hint_password">Create Password</string>
     <string name="screen_register_terms_agreement_label">By signing up you agree to the terms of service</string>
-    <string name="sdk_facebook_app_id">530645470453571</string>
+    <string name="sdk_facebook_app_id">1009056312545098</string>
     <string name="show_disclaimer">true</string>
     <string name="show_rate_offer">true</string>
     <string name="status_bar_notification_info_overflow">999+</string>

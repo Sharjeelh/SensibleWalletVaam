@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cashmobi.test" >
+    package="com.woodywallet.test" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -10,8 +10,8 @@
         android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.cashmobi"
-        android:targetPackage="com.cashmobi" />
+        android:label="Tests for com.woodywallet"
+        android:targetPackage="com.woodywallet" />
 
     <application>
         <uses-library android:name="android.test.runner" />

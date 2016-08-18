@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "535622873205",
+    "project_id": "woody-wallet"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535622873205:android:f4faa9d3f01286d8",
+        "android_client_info": {
+          "package_name": "com.woodywallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535622873205-d9uricpu24afmk40gfamiu65qo9bg6st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woodywallet",
+            "certificate_hash": "C36178C0E31F0FBD6D4B8ECC6B5F8E06FB531E30"
+          }
+        },
+        {
+          "client_id": "535622873205-19bh0te2bm42g8hmmdl6tup055kj6gj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woodywallet",
+            "certificate_hash": "418C4E65AAC0A67C74EE362E2F711A24CFF3AD36"
+          }
+        },
+        {
+          "client_id": "535622873205-k4qiv78knhp28cbel826icmq8nuui8b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuDYgyUiWcfcw9onoVUYsRemSCc89dZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

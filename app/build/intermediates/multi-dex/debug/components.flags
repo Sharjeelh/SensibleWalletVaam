@@ -13,7 +13,7 @@
 -printconfiguration 'F:\MyWork\Baam\SensibleWalletVaam\app\build\intermediates\multi-dex\debug\components.flags'
 
 
--keep class com.cashmobi.MyApplication {
+-keep class com.woodywallet.MyApplication {
     <init>();
     void attachBaseContext(android.content.Context);
 }
@@ -34,19 +34,19 @@
     <init>();
 }
 
--keep class com.cashmobi.ActivitySplashScreen {
+-keep class com.woodywallet.ActivitySplashScreen {
     <init>();
 }
 
--keep class com.cashmobi.ActivityLogin {
+-keep class com.woodywallet.ActivityLogin {
     <init>();
 }
 
--keep class com.cashmobi.ActivityRegister {
+-keep class com.woodywallet.ActivityRegister {
     <init>();
 }
 
--keep class com.cashmobi.ActivityMainWallet {
+-keep class com.woodywallet.ActivityMainWallet {
     <init>();
 }
 
@@ -58,11 +58,11 @@
     <init>();
 }
 
--keep class com.cashmobi.NotificationReciver {
+-keep class com.woodywallet.NotificationReciver {
     <init>();
 }
 
--keep class com.cashmobi.GCMIntentService {
+-keep class com.woodywallet.GCMIntentService {
     <init>();
 }
 

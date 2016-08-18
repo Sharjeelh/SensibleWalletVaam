@@ -67,7 +67,8 @@
                 android:layout_height="wrap_content"
                 style="@style/TextAppearance.AppCompat.Button"
                 android:layout_marginLeft="16dp"
-                android:textColor="@color/material_color_primary"
+                android:background="@color/material_color_primary"
+                android:textColor="@color/Black"
                 android:textSize="@dimen/listgroupitemcredittextsize"
                 android:textStyle="normal" />
             <TextView android:id="@+id/list_offer_badge_text"
@@ -103,7 +104,7 @@
         android:layout_height="1dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
-        android:background="@color/md_grey_300"
+        android:background="@color/Black"
         android:layout_below="@+id/list_offer_item_container"/>
 
     <ImageView android:id="@+id/list_offer_badge"

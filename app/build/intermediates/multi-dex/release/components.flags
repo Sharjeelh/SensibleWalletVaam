@@ -1,7 +1,7 @@
--injars 'F:\Sharjeel'sWork\Workspace\SensibleWallet\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
--outjars 'F:\Sharjeel'sWork\Workspace\SensibleWallet\app\build\intermediates\multi-dex\release\componentClasses.jar'
+-injars 'F:\MyWork\Baam\SensibleWalletVaam\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'F:\MyWork\Baam\SensibleWalletVaam\app\build\intermediates\multi-dex\release\componentClasses.jar'
 
--libraryjars 'C:\Users\Ali\AppData\Local\Android\sdk\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+-libraryjars 'J:\Android\SDK\build-tools\23.0.1\lib\shrinkedAndroid.jar'
 
 -forceprocessing
 -dontoptimize
@@ -10,10 +10,10 @@
 -dontpreverify
 -dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
 -dontwarn **
--printconfiguration 'F:\Sharjeel'sWork\Workspace\SensibleWallet\app\build\intermediates\multi-dex\release\components.flags'
+-printconfiguration 'F:\MyWork\Baam\SensibleWalletVaam\app\build\intermediates\multi-dex\release\components.flags'
 
 
--keep class com.cashmobi.MyApplication {
+-keep class com.woodywallet.MyApplication {
     <init>();
     void attachBaseContext(android.content.Context);
 }
@@ -34,19 +34,19 @@
     <init>();
 }
 
--keep class com.cashmobi.ActivitySplashScreen {
+-keep class com.woodywallet.ActivitySplashScreen {
     <init>();
 }
 
--keep class com.cashmobi.ActivityLogin {
+-keep class com.woodywallet.ActivityLogin {
     <init>();
 }
 
--keep class com.cashmobi.ActivityRegister {
+-keep class com.woodywallet.ActivityRegister {
     <init>();
 }
 
--keep class com.cashmobi.ActivityMainWallet {
+-keep class com.woodywallet.ActivityMainWallet {
     <init>();
 }
 
@@ -58,11 +58,11 @@
     <init>();
 }
 
--keep class com.cashmobi.NotificationReciver {
+-keep class com.woodywallet.NotificationReciver {
     <init>();
 }
 
--keep class com.cashmobi.GCMIntentService {
+-keep class com.woodywallet.GCMIntentService {
     <init>();
 }
 
@@ -139,6 +139,14 @@
 }
 
 -keep class com.vungle.publisher.FullScreenAdActivity {
+    <init>();
+}
+
+-keep class com.vungle.publisher.VideoFullScreenAdActivity {
+    <init>();
+}
+
+-keep class com.vungle.publisher.MraidFullScreenAdActivity {
     <init>();
 }
 

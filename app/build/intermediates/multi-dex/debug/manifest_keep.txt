@@ -1,4 +1,4 @@
--keep class com.cashmobi.MyApplication {
+-keep class com.woodywallet.MyApplication {
     <init>();
     void attachBaseContext(android.content.Context);
 }
@@ -6,14 +6,14 @@
 -keep class com.revmob.FullscreenActivity { <init>(); }
 -keep class com.applovin.adview.AppLovinInterstitialActivity { <init>(); }
 -keep class com.applovin.adview.AppLovinConfirmationActivity { <init>(); }
--keep class com.cashmobi.ActivitySplashScreen { <init>(); }
--keep class com.cashmobi.ActivityLogin { <init>(); }
--keep class com.cashmobi.ActivityRegister { <init>(); }
--keep class com.cashmobi.ActivityMainWallet { <init>(); }
+-keep class com.woodywallet.ActivitySplashScreen { <init>(); }
+-keep class com.woodywallet.ActivityLogin { <init>(); }
+-keep class com.woodywallet.ActivityRegister { <init>(); }
+-keep class com.woodywallet.ActivityMainWallet { <init>(); }
 -keep class com.facebook.FacebookActivity { <init>(); }
 -keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(); }
--keep class com.cashmobi.NotificationReciver { <init>(); }
--keep class com.cashmobi.GCMIntentService { <init>(); }
+-keep class com.woodywallet.NotificationReciver { <init>(); }
+-keep class com.woodywallet.GCMIntentService { <init>(); }
 -keep class com.appgrade.sdk.view.InterstitialActivity { <init>(); }
 -keep class com.supersonicads.sdk.controller.ControllerActivity { <init>(); }
 -keep class com.supersonicads.sdk.controller.InterstitialActivity { <init>(); }

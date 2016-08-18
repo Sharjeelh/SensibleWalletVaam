@@ -12,7 +12,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.RelativeLayout;
 
-import com.cashmobi.R;
+import com.woodywallet.R;
 
 
 /**

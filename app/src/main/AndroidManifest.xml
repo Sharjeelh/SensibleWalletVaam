@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cashmobi"
-    android:versionCode="2"
-    android:versionName="1" >
+    package="com.woodywallet"
+    android:versionCode="1"
+    android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -26,7 +26,7 @@
     <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
 
     <permission
-        android:name="com.cashmobi.permission.C2D_MESSAGE"
+        android:name="com.woodywallet.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
     <application
@@ -35,7 +35,7 @@
         android:label="@string/app_name"
         android:largeHeap="true"
         android:theme="@style/AppTheme"
-        android:name="com.cashmobi.MyApplication"
+        android:name="com.woodywallet.MyApplication"
         android:windowSoftInputMode="stateAlwaysHidden">
         <activity android:name="com.chartboost.sdk.CBImpressionActivity"
             android:excludeFromRecents="true"
@@ -54,7 +54,7 @@
         <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" />
         <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" />
         <activity
-            android:name="com.cashmobi.ActivitySplashScreen"
+            android:name="com.woodywallet.ActivitySplashScreen"
             android:label="@string/app_name"
             android:theme="@style/AppTheme" >
             <intent-filter>
@@ -64,20 +64,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.cashmobi.ActivityLogin"
+            android:name="com.woodywallet.ActivityLogin"
             android:label="@string/title_screen_sign_in"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateAlwaysHidden" >
         </activity>
         <activity
-            android:name="com.cashmobi.ActivityRegister"
+            android:name="com.woodywallet.ActivityRegister"
             android:label="@string/title_screen_sign_up"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateAlwaysHidden" >
         </activity>
         <activity
-            android:name="com.cashmobi.ActivityMainWallet"
+            android:name="com.woodywallet.ActivityMainWallet"
             android:clearTaskOnLaunch="true"
             android:label="@string/app_name"
             android:launchMode="singleTask"
@@ -107,9 +107,9 @@
                 <category android:name="com.sensiblewallet" />
             </intent-filter>
         </receiver>
-        <receiver android:name="com.cashmobi.NotificationReciver" />
+        <receiver android:name="com.woodywallet.NotificationReciver" />
 
-        <service android:name="com.cashmobi.GCMIntentService" />
+        <service android:name="com.woodywallet.GCMIntentService" />
 
         <meta-data
             android:name="com.google.android.gms.version"

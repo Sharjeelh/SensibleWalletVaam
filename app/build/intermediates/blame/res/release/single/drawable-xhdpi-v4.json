@@ -1,87 +1,87 @@
 [
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_av_replay.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_av_replay.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png",
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_light.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tick_mark_selected.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\tick_mark_selected.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bouns_normal.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\bouns_normal.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_close.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_navigation_menu.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_navigation_menu.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
@@ -92,12 +92,564 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tick_mark_normal.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\tick_mark_normal.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_button_close.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_button_close.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
     },
     {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bouns_selected.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\bouns_selected.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\meeting_selected.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\meeting_selected.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_close.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting_selected.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\setting_selected.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_device_screen_rotation.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_device_screen_rotation.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_light.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_av_replay.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_av_replay.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\invite_selected.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\invite_selected.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_button_close.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_button_close.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_favicon_white.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\meeting_normal.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\meeting_normal.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_av_replay.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_av_replay.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_device_screen_rotation.png",
@@ -112,104 +664,72 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\invite_normal.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\invite_normal.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_av_replay.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_av_replay.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_light.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\reward_selected_.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\reward_selected_.png"
     },
     {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_navigation_menu.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_navigation_menu.png"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_light.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png",
@@ -220,196 +740,128 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_button_close.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_button_close.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_dark.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_dark.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\setting_normal.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\setting_normal.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_button_close.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_button_close.png"
     },
     {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_close.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_light.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
@@ -420,12 +872,20 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png",
@@ -436,88 +896,56 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_device_screen_rotation.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_device_screen_rotation.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_white.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_device_screen_rotation.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_device_screen_rotation.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
@@ -528,16 +956,8 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
@@ -548,12 +968,12 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
@@ -564,120 +984,92 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_favicon_white.png"
     },
     {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_navigation_menu.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_navigation_menu.png"
+    },
+    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_white.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
     },
     {
         "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_close.png",
         "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_av_replay.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_av_replay.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_navigation_menu.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\appGradeLib\\unspecified\\res\\drawable-xhdpi-v4\\ic_action_navigation_menu.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\reward_normal.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\drawable-xhdpi\\reward_normal.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
@@ -688,27 +1080,35 @@
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
     },
     {
-        "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
-        "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_favicon_white.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_favicon_white.png"
     },
     {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\SensibleWallet\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png",
         "source": "F:\\Sharjeel'sWork\\Workspace\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
-    },
-    {
-        "merged": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\com_facebook_favicon_white.png",
-        "source": "F:\\Volumes\\Documents\\Cloud\\Dropbox (Personal)\\Sensible Wallet Source Code\\Sensible Wallet Update 2.5\\3.0 Source Code\\SensibleWallet\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.12.1\\res\\drawable-xhdpi-v4\\com_facebook_favicon_white.png"
     }
 ]

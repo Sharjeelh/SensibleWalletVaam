@@ -60,7 +60,6 @@
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:layout_marginRight="24dp"
-            android:background="@color/material_color_primary"
             android:gravity="center"
             style="@style/TextAppearance.AppCompat.Button"
             android:layout_marginLeft="16dp"
