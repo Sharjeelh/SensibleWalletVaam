@@ -194,6 +194,10 @@
     <init>();
 }
 
+-keep class com.facebook.CustomTabMainActivity {
+    <init>();
+}
+
 -keep class com.unity3d.ads.android.view.UnityAdsFullscreenActivity {
     <init>();
 }

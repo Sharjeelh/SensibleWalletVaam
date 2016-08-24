@@ -17,7 +17,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
-    <string name="com_facebook_device_auth_instructions">زر &lt;b>facebook.com/device&lt;/b>&lt;br /> على هاتفك الذكي أو الكمبيوتر ثم أدخل هذا الرمز:</string>
+    <string name="com_facebook_device_auth_instructions">زر &lt;b>facebook.com/device&lt;/b> على هاتفك الذكي أو الكمبيوتر ثم أدخل هذا الرمز:</string>
     <string name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
     <string name="com_facebook_internet_permission_error_message">يتطلب تسجيل الدخول إلى WebView إذن الاتصال بالإنترنت</string>
     <string name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>

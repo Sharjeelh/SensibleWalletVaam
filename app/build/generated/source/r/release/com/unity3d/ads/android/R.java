@@ -15,17 +15,17 @@ public final class R {
 		public static final int unityads_icon_speaker_waves = 0x7f0200ae;
 	}
 	public static final class id {
-		public static final int unityAdsAudioToggleView = 0x7f0b010c;
-		public static final int unityAdsMuteButtonSpeakerWaves = 0x7f0b0102;
-		public static final int unityAdsMuteButtonSpeakerX = 0x7f0b0103;
-		public static final int unityAdsPauseButton = 0x7f0b0104;
-		public static final int unityAdsVideoBufferingText = 0x7f0b0107;
-		public static final int unityAdsVideoCountDown = 0x7f0b0108;
-		public static final int unityAdsVideoSkipText = 0x7f0b0106;
-		public static final int unityAdsVideoTimeLeftPrefix = 0x7f0b0109;
-		public static final int unityAdsVideoTimeLeftSuffix = 0x7f0b010b;
-		public static final int unityAdsVideoTimeLeftText = 0x7f0b010a;
-		public static final int unityAdsVideoView = 0x7f0b0105;
+		public static final int unityAdsAudioToggleView = 0x7f0b010b;
+		public static final int unityAdsMuteButtonSpeakerWaves = 0x7f0b0101;
+		public static final int unityAdsMuteButtonSpeakerX = 0x7f0b0102;
+		public static final int unityAdsPauseButton = 0x7f0b0103;
+		public static final int unityAdsVideoBufferingText = 0x7f0b0106;
+		public static final int unityAdsVideoCountDown = 0x7f0b0107;
+		public static final int unityAdsVideoSkipText = 0x7f0b0105;
+		public static final int unityAdsVideoTimeLeftPrefix = 0x7f0b0108;
+		public static final int unityAdsVideoTimeLeftSuffix = 0x7f0b010a;
+		public static final int unityAdsVideoTimeLeftText = 0x7f0b0109;
+		public static final int unityAdsVideoView = 0x7f0b0104;
 	}
 	public static final class layout {
 		public static final int unityads_button_audio_toggle = 0x7f030059;

@@ -1551,17 +1551,17 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1948,
-                    "endColumn": 184,
-                    "endOffset": 2128
+                    "endColumn": 175,
+                    "endOffset": 2119
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 184,
-                        "endOffset": 235
+                        "endColumn": 175,
+                        "endOffset": 226
                     }
                 }
             },
@@ -1569,18 +1569,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2133,
+                    "startOffset": 2124,
                     "endColumn": 142,
-                    "endOffset": 2271
+                    "endOffset": 2262
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 240,
+                        "startOffset": 231,
                         "endColumn": 142,
-                        "endOffset": 378
+                        "endOffset": 369
                     }
                 }
             },
@@ -1588,18 +1588,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2276,
+                    "startOffset": 2267,
                     "endColumn": 142,
-                    "endOffset": 2414
+                    "endOffset": 2405
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 383,
+                        "startOffset": 374,
                         "endColumn": 142,
-                        "endOffset": 521
+                        "endOffset": 512
                     }
                 }
             },
@@ -1607,18 +1607,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2419,
+                    "startOffset": 2410,
                     "endColumn": 95,
-                    "endOffset": 2510
+                    "endOffset": 2501
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 526,
+                        "startOffset": 517,
                         "endColumn": 95,
-                        "endOffset": 617
+                        "endOffset": 608
                     }
                 }
             },
@@ -1626,18 +1626,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2515,
+                    "startOffset": 2506,
                     "endColumn": 70,
-                    "endOffset": 2581
+                    "endOffset": 2572
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 622,
+                        "startOffset": 613,
                         "endColumn": 70,
-                        "endOffset": 688
+                        "endOffset": 679
                     }
                 }
             },
@@ -1645,18 +1645,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2586,
+                    "startOffset": 2577,
                     "endColumn": 69,
-                    "endOffset": 2651
+                    "endOffset": 2642
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 693,
+                        "startOffset": 684,
                         "endColumn": 69,
-                        "endOffset": 758
+                        "endOffset": 749
                     }
                 }
             },
@@ -1664,18 +1664,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2656,
+                    "startOffset": 2647,
                     "endColumn": 62,
-                    "endOffset": 2714
+                    "endOffset": 2705
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 763,
+                        "startOffset": 754,
                         "endColumn": 62,
-                        "endOffset": 821
+                        "endOffset": 812
                     }
                 }
             },
@@ -1683,18 +1683,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2719,
+                    "startOffset": 2710,
                     "endColumn": 72,
-                    "endOffset": 2787
+                    "endOffset": 2778
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 826,
+                        "startOffset": 817,
                         "endColumn": 72,
-                        "endOffset": 894
+                        "endOffset": 885
                     }
                 }
             },
@@ -1702,18 +1702,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2792,
+                    "startOffset": 2783,
                     "endColumn": 74,
-                    "endOffset": 2862
+                    "endOffset": 2853
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 899,
+                        "startOffset": 890,
                         "endColumn": 74,
-                        "endOffset": 969
+                        "endOffset": 960
                     }
                 }
             },
@@ -1721,18 +1721,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2867,
+                    "startOffset": 2858,
                     "endColumn": 93,
-                    "endOffset": 2956
+                    "endOffset": 2947
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 974,
+                        "startOffset": 965,
                         "endColumn": 93,
-                        "endOffset": 1063
+                        "endOffset": 1054
                     }
                 }
             },
@@ -1740,18 +1740,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2961,
+                    "startOffset": 2952,
                     "endColumn": 77,
-                    "endOffset": 3034
+                    "endOffset": 3025
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1068,
+                        "startOffset": 1059,
                         "endColumn": 77,
-                        "endOffset": 1141
+                        "endOffset": 1132
                     }
                 }
             },
@@ -1759,18 +1759,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3039,
+                    "startOffset": 3030,
                     "endColumn": 77,
-                    "endOffset": 3112
+                    "endOffset": 3103
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1146,
+                        "startOffset": 1137,
                         "endColumn": 77,
-                        "endOffset": 1219
+                        "endOffset": 1210
                     }
                 }
             },
@@ -1778,18 +1778,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3117,
+                    "startOffset": 3108,
                     "endColumn": 92,
-                    "endOffset": 3205
+                    "endOffset": 3196
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1224,
+                        "startOffset": 1215,
                         "endColumn": 92,
-                        "endOffset": 1312
+                        "endOffset": 1303
                     }
                 }
             },
@@ -1797,18 +1797,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3210,
+                    "startOffset": 3201,
                     "endColumn": 108,
-                    "endOffset": 3314
+                    "endOffset": 3305
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1317,
+                        "startOffset": 1308,
                         "endColumn": 108,
-                        "endOffset": 1421
+                        "endOffset": 1412
                     }
                 }
             },
@@ -1816,18 +1816,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3319,
+                    "startOffset": 3310,
                     "endColumn": 65,
-                    "endOffset": 3380
+                    "endOffset": 3371
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1426,
+                        "startOffset": 1417,
                         "endColumn": 65,
-                        "endOffset": 1487
+                        "endOffset": 1478
                     }
                 }
             },
@@ -1835,18 +1835,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3385,
+                    "startOffset": 3376,
                     "endColumn": 67,
-                    "endOffset": 3448
+                    "endOffset": 3439
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1492,
+                        "startOffset": 1483,
                         "endColumn": 67,
-                        "endOffset": 1555
+                        "endOffset": 1546
                     }
                 }
             },
@@ -1854,18 +1854,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 3453,
+                    "startOffset": 3444,
                     "endColumn": 145,
-                    "endOffset": 3594
+                    "endOffset": 3585
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1560,
+                        "startOffset": 1551,
                         "endColumn": 145,
-                        "endOffset": 1701
+                        "endOffset": 1692
                     }
                 }
             },
@@ -1873,9 +1873,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3599,
+                    "startOffset": 3590,
                     "endColumn": 189,
-                    "endOffset": 3784
+                    "endOffset": 3775
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -1892,9 +1892,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3789,
+                    "startOffset": 3780,
                     "endColumn": 194,
-                    "endOffset": 3979
+                    "endOffset": 3970
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -1911,9 +1911,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3984,
+                    "startOffset": 3975,
                     "endColumn": 117,
-                    "endOffset": 4097
+                    "endOffset": 4088
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -1930,9 +1930,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 4102,
+                    "startOffset": 4093,
                     "endColumn": 128,
-                    "endOffset": 4226
+                    "endOffset": 4217
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -1949,9 +1949,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 4231,
+                    "startOffset": 4222,
                     "endColumn": 195,
-                    "endOffset": 4422
+                    "endOffset": 4413
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -1968,9 +1968,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4427,
+                    "startOffset": 4418,
                     "endColumn": 130,
-                    "endOffset": 4553
+                    "endOffset": 4544
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -1987,9 +1987,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 4558,
+                    "startOffset": 4549,
                     "endColumn": 196,
-                    "endOffset": 4750
+                    "endOffset": 4741
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2006,9 +2006,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 4755,
+                    "startOffset": 4746,
                     "endColumn": 131,
-                    "endOffset": 4882
+                    "endOffset": 4873
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2025,9 +2025,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 4887,
+                    "startOffset": 4878,
                     "endColumn": 220,
-                    "endOffset": 5103
+                    "endOffset": 5094
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2044,9 +2044,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 5108,
+                    "startOffset": 5099,
                     "endColumn": 220,
-                    "endOffset": 5324
+                    "endOffset": 5315
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2063,9 +2063,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 5329,
+                    "startOffset": 5320,
                     "endColumn": 132,
-                    "endOffset": 5457
+                    "endOffset": 5448
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2082,9 +2082,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 5462,
+                    "startOffset": 5453,
                     "endColumn": 195,
-                    "endOffset": 5653
+                    "endOffset": 5644
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2101,9 +2101,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 5658,
+                    "startOffset": 5649,
                     "endColumn": 121,
-                    "endOffset": 5775
+                    "endOffset": 5766
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2120,9 +2120,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 5780,
+                    "startOffset": 5771,
                     "endColumn": 170,
-                    "endOffset": 5946
+                    "endOffset": 5937
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2139,9 +2139,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 5951,
+                    "startOffset": 5942,
                     "endColumn": 192,
-                    "endOffset": 6139
+                    "endOffset": 6130
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2158,9 +2158,9 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 6144,
+                    "startOffset": 6135,
                     "endColumn": 119,
-                    "endOffset": 6259
+                    "endOffset": 6250
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2177,9 +2177,9 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 6264,
+                    "startOffset": 6255,
                     "endColumn": 189,
-                    "endOffset": 6449
+                    "endOffset": 6440
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2196,9 +2196,9 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 6454,
+                    "startOffset": 6445,
                     "endColumn": 182,
-                    "endOffset": 6632
+                    "endOffset": 6623
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2215,9 +2215,9 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 6637,
+                    "startOffset": 6628,
                     "endColumn": 142,
-                    "endOffset": 6775
+                    "endOffset": 6766
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2234,9 +2234,9 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 6780,
+                    "startOffset": 6771,
                     "endColumn": 147,
-                    "endOffset": 6923
+                    "endOffset": 6914
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2253,9 +2253,9 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 6928,
+                    "startOffset": 6919,
                     "endColumn": 276,
-                    "endOffset": 7200
+                    "endOffset": 7191
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2272,9 +2272,9 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 7205,
+                    "startOffset": 7196,
                     "endColumn": 124,
-                    "endOffset": 7325
+                    "endOffset": 7316
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2291,9 +2291,9 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 7330,
+                    "startOffset": 7321,
                     "endColumn": 113,
-                    "endOffset": 7439
+                    "endOffset": 7430
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2310,9 +2310,9 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 7444,
+                    "startOffset": 7435,
                     "endColumn": 198,
-                    "endOffset": 7638
+                    "endOffset": 7629
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2329,9 +2329,9 @@
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 7643,
+                    "startOffset": 7634,
                     "endColumn": 137,
-                    "endOffset": 7776
+                    "endOffset": 7767
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2348,9 +2348,9 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 7781,
+                    "startOffset": 7772,
                     "endColumn": 101,
-                    "endOffset": 7878
+                    "endOffset": 7869
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2367,9 +2367,9 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 7883,
+                    "startOffset": 7874,
                     "endColumn": 93,
-                    "endOffset": 7972
+                    "endOffset": 7963
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2386,9 +2386,9 @@
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 7977,
+                    "startOffset": 7968,
                     "endColumn": 113,
-                    "endOffset": 8086
+                    "endOffset": 8077
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-fr\\values-fr.xml",
@@ -2405,18 +2405,18 @@
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 8091,
+                    "startOffset": 8082,
                     "endColumn": 62,
-                    "endOffset": 8149
+                    "endOffset": 8140
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-fr\\values-fr.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-fr\\values-fr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1706,
+                        "startOffset": 1697,
                         "endColumn": 62,
-                        "endOffset": 1764
+                        "endOffset": 1755
                     }
                 }
             },
@@ -2424,9 +2424,9 @@
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 8154,
+                    "startOffset": 8145,
                     "endColumn": 100,
-                    "endOffset": 8250
+                    "endOffset": 8241
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-fr\\values-fr.xml",

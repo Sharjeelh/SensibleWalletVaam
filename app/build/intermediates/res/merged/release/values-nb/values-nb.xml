@@ -17,7 +17,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
-    <string name="com_facebook_device_auth_instructions">Gå til &lt;b>facebook.com/device&lt;/b>&lt;br /> på smarttelefonen eller datamaskinen din, og oppgi denne koden:</string>
+    <string name="com_facebook_device_auth_instructions">Gå til &lt;b>facebook.com/device&lt;/b> på smarttelefonen eller datamaskinen din, og oppgi denne koden:</string>
     <string name="com_facebook_image_download_unknown_error">Det oppstod en uventet feil ved nedlasting av et bilde.</string>
     <string name="com_facebook_internet_permission_error_message">Webvisning-innlogging krever INTERNETT-tillatelse</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest-feil</string>

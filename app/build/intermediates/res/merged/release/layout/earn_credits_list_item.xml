@@ -67,7 +67,6 @@
                 android:layout_height="wrap_content"
                 style="@style/TextAppearance.AppCompat.Button"
                 android:layout_marginLeft="16dp"
-                android:background="@color/material_color_primary"
                 android:textColor="@color/Black"
                 android:textSize="@dimen/listgroupitemcredittextsize"
                 android:textStyle="normal" />

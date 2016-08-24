@@ -817,18 +817,18 @@
     <string name="api_chartboost_app_signature">4137667b19d8d442a895ffbe33c90798033bed69</string>
     <string name="api_cpalead_gateway_id">1084146</string>
     <string name="api_cpalead_publisher_id">474955</string>
-    <string name="api_nativex_app_id">91043</string>
+    <string name="api_nativex_app_id">95518</string>
     <string name="api_persona_app_id">84bd29a809d93f7d2f4e0e1a01a6517b</string>
     <string name="api_super_rewards_app_package_name">com.cashmobi</string>
     <string name="api_super_rewards_hash">pllqmxsqkfn.982657919947</string>
-    <string name="api_super_sonic_app_key">50e33475</string>
+    <string name="api_super_sonic_app_key">52e3d13d</string>
     <string name="api_tapjoy_sdk_key">NBUqOb4HSZKxzaM4K_xplAECHXWrThrfSlase2mggj2IC_yiiApJvRlz8Pxc</string>
-    <string name="api_trialpay_app_key">d43e2b8deb3b00c577f1881a0ec583ab</string>
+    <string name="api_trialpay_app_key">de69f5c6564c153b5dd1a184b3eda6ea</string>
     <string name="api_vungle_app_id">57b29a7a7db6810b2e000049</string>
     <string name="app_name">Woody Wallet</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applovin_sdk_key">hO8UPJwRCpTBUooTCdnUTz4QeD8DsG3XeB12UxTgl0tEpen_HXUmVZA8nJLdZOACaBF37klslc5XGsXXO1IubS</string>
-    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b>&lt;br />on your smartphone or computer&lt;br />and enter this code</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> on your smartphone or computer and enter this code</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
@@ -951,7 +951,7 @@
     <string name="prefs_rewarded_key">prefs_rewarded</string>
     <string name="prompt_choose_login_account">Choose an Account to Start Earning!</string>
     <string name="prompt_forgot_password">Please enter your email to reset password</string>
-    <string name="revmob_media_id">56d89bd7d05d07ce76961927</string>
+    <string name="revmob_media_id">57b2d734bc95dfc52af059af</string>
     <string name="rewards">Rewards</string>
     <string name="screen_earn_credits_offer_prompt">Earn Credits</string>
     <string name="screen_input_friend_id_hint_invitation_code">Friend\'s Invitation Code</string>
@@ -995,7 +995,7 @@
     <string name="title_screen_sign_up">Sign Up</string>
     <string name="title_screen_terms">Terms Of Service</string>
     <string name="unity_ads_debug_mode">false</string>
-    <string name="unity_ads_id">1045497</string>
+    <string name="unity_ads_id">1115539</string>
     <string name="unity_ads_test_mode">false</string>
     <string name="unityads_buffering_text">Buffering…</string>
     <string name="unityads_default_video_length_text">00</string>

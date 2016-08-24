@@ -330,17 +330,17 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1774,
-                    "endColumn": 131,
-                    "endOffset": 1901
+                    "endColumn": 122,
+                    "endOffset": 1892
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 131,
-                        "endOffset": 182
+                        "endColumn": 122,
+                        "endOffset": 173
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1906,
+                    "startOffset": 1897,
                     "endColumn": 84,
-                    "endOffset": 1986
+                    "endOffset": 1977
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 187,
+                        "startOffset": 178,
                         "endColumn": 84,
-                        "endOffset": 267
+                        "endOffset": 258
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1991,
+                    "startOffset": 1982,
                     "endColumn": 95,
-                    "endOffset": 2082
+                    "endOffset": 2073
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 272,
+                        "startOffset": 263,
                         "endColumn": 95,
-                        "endOffset": 363
+                        "endOffset": 354
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2087,
+                    "startOffset": 2078,
                     "endColumn": 91,
-                    "endOffset": 2174
+                    "endOffset": 2165
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 368,
+                        "startOffset": 359,
                         "endColumn": 91,
-                        "endOffset": 455
+                        "endOffset": 446
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2179,
+                    "startOffset": 2170,
                     "endColumn": 61,
-                    "endOffset": 2236
+                    "endOffset": 2227
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 460,
+                        "startOffset": 451,
                         "endColumn": 61,
-                        "endOffset": 517
+                        "endOffset": 508
                     }
                 }
             },
@@ -424,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2241,
+                    "startOffset": 2232,
                     "endColumn": 64,
-                    "endOffset": 2301
+                    "endOffset": 2292
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 513,
                         "endColumn": 64,
-                        "endOffset": 582
+                        "endOffset": 573
                     }
                 }
             },
@@ -443,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2306,
+                    "startOffset": 2297,
                     "endColumn": 54,
-                    "endOffset": 2356
+                    "endOffset": 2347
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 587,
+                        "startOffset": 578,
                         "endColumn": 54,
-                        "endOffset": 637
+                        "endOffset": 628
                     }
                 }
             },
@@ -462,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2361,
+                    "startOffset": 2352,
                     "endColumn": 67,
-                    "endOffset": 2424
+                    "endOffset": 2415
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 642,
+                        "startOffset": 633,
                         "endColumn": 67,
-                        "endOffset": 705
+                        "endOffset": 696
                     }
                 }
             },
@@ -481,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2429,
+                    "startOffset": 2420,
                     "endColumn": 67,
-                    "endOffset": 2492
+                    "endOffset": 2483
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 710,
+                        "startOffset": 701,
                         "endColumn": 67,
-                        "endOffset": 773
+                        "endOffset": 764
                     }
                 }
             },
@@ -500,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2497,
+                    "startOffset": 2488,
                     "endColumn": 84,
-                    "endOffset": 2577
+                    "endOffset": 2568
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 778,
+                        "startOffset": 769,
                         "endColumn": 84,
-                        "endOffset": 858
+                        "endOffset": 849
                     }
                 }
             },
@@ -519,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2582,
+                    "startOffset": 2573,
                     "endColumn": 68,
-                    "endOffset": 2646
+                    "endOffset": 2637
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 863,
+                        "startOffset": 854,
                         "endColumn": 68,
-                        "endOffset": 927
+                        "endOffset": 918
                     }
                 }
             },
@@ -538,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2651,
+                    "startOffset": 2642,
                     "endColumn": 68,
-                    "endOffset": 2715
+                    "endOffset": 2706
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 932,
+                        "startOffset": 923,
                         "endColumn": 68,
-                        "endOffset": 996
+                        "endOffset": 987
                     }
                 }
             },
@@ -557,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2720,
+                    "startOffset": 2711,
                     "endColumn": 77,
-                    "endOffset": 2793
+                    "endOffset": 2784
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1001,
+                        "startOffset": 992,
                         "endColumn": 77,
-                        "endOffset": 1074
+                        "endOffset": 1065
                     }
                 }
             },
@@ -576,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2798,
+                    "startOffset": 2789,
                     "endColumn": 91,
-                    "endOffset": 2885
+                    "endOffset": 2876
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1079,
+                        "startOffset": 1070,
                         "endColumn": 91,
-                        "endOffset": 1166
+                        "endOffset": 1157
                     }
                 }
             },
@@ -595,18 +595,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2890,
+                    "startOffset": 2881,
                     "endColumn": 60,
-                    "endOffset": 2946
+                    "endOffset": 2937
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1171,
+                        "startOffset": 1162,
                         "endColumn": 60,
-                        "endOffset": 1227
+                        "endOffset": 1218
                     }
                 }
             },
@@ -614,18 +614,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2951,
+                    "startOffset": 2942,
                     "endColumn": 61,
-                    "endOffset": 3008
+                    "endOffset": 2999
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1232,
+                        "startOffset": 1223,
                         "endColumn": 61,
-                        "endOffset": 1289
+                        "endOffset": 1280
                     }
                 }
             },
@@ -633,18 +633,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 3013,
+                    "startOffset": 3004,
                     "endColumn": 83,
-                    "endOffset": 3092
+                    "endOffset": 3083
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1294,
+                        "startOffset": 1285,
                         "endColumn": 83,
-                        "endOffset": 1373
+                        "endOffset": 1364
                     }
                 }
             },
@@ -652,9 +652,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3097,
+                    "startOffset": 3088,
                     "endColumn": 138,
-                    "endOffset": 3231
+                    "endOffset": 3222
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -671,9 +671,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3236,
+                    "startOffset": 3227,
                     "endColumn": 125,
-                    "endOffset": 3357
+                    "endOffset": 3348
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -690,9 +690,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3362,
+                    "startOffset": 3353,
                     "endColumn": 106,
-                    "endOffset": 3464
+                    "endOffset": 3455
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -709,9 +709,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3469,
+                    "startOffset": 3460,
                     "endColumn": 117,
-                    "endOffset": 3582
+                    "endOffset": 3573
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -728,9 +728,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3587,
+                    "startOffset": 3578,
                     "endColumn": 130,
-                    "endOffset": 3713
+                    "endOffset": 3704
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -747,9 +747,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3718,
+                    "startOffset": 3709,
                     "endColumn": 115,
-                    "endOffset": 3829
+                    "endOffset": 3820
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -766,9 +766,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3834,
+                    "startOffset": 3825,
                     "endColumn": 161,
-                    "endOffset": 3991
+                    "endOffset": 3982
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -785,9 +785,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3996,
+                    "startOffset": 3987,
                     "endColumn": 118,
-                    "endOffset": 4110
+                    "endOffset": 4101
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -804,9 +804,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 4115,
+                    "startOffset": 4106,
                     "endColumn": 142,
-                    "endOffset": 4253
+                    "endOffset": 4244
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -823,9 +823,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 4258,
+                    "startOffset": 4249,
                     "endColumn": 145,
-                    "endOffset": 4399
+                    "endOffset": 4390
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -842,9 +842,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 4404,
+                    "startOffset": 4395,
                     "endColumn": 115,
-                    "endOffset": 4515
+                    "endOffset": 4506
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -861,9 +861,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4520,
+                    "startOffset": 4511,
                     "endColumn": 130,
-                    "endOffset": 4646
+                    "endOffset": 4637
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -880,9 +880,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4651,
+                    "startOffset": 4642,
                     "endColumn": 113,
-                    "endOffset": 4760
+                    "endOffset": 4751
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -899,9 +899,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 4765,
+                    "startOffset": 4756,
                     "endColumn": 131,
-                    "endOffset": 4892
+                    "endOffset": 4883
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -918,9 +918,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4897,
+                    "startOffset": 4888,
                     "endColumn": 131,
-                    "endOffset": 5024
+                    "endOffset": 5015
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -937,9 +937,9 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 5029,
+                    "startOffset": 5020,
                     "endColumn": 110,
-                    "endOffset": 5135
+                    "endOffset": 5126
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -956,9 +956,9 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 5140,
+                    "startOffset": 5131,
                     "endColumn": 148,
-                    "endOffset": 5284
+                    "endOffset": 5275
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -975,9 +975,9 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 5289,
+                    "startOffset": 5280,
                     "endColumn": 142,
-                    "endOffset": 5427
+                    "endOffset": 5418
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -994,9 +994,9 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 5432,
+                    "startOffset": 5423,
                     "endColumn": 124,
-                    "endOffset": 5552
+                    "endOffset": 5543
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1013,9 +1013,9 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 5557,
+                    "startOffset": 5548,
                     "endColumn": 121,
-                    "endOffset": 5674
+                    "endOffset": 5665
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1032,9 +1032,9 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 5679,
+                    "startOffset": 5670,
                     "endColumn": 152,
-                    "endOffset": 5827
+                    "endOffset": 5818
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1051,9 +1051,9 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 5832,
+                    "startOffset": 5823,
                     "endColumn": 118,
-                    "endOffset": 5946
+                    "endOffset": 5937
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1070,9 +1070,9 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 5951,
+                    "startOffset": 5942,
                     "endColumn": 102,
-                    "endOffset": 6049
+                    "endOffset": 6040
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1089,9 +1089,9 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 6054,
+                    "startOffset": 6045,
                     "endColumn": 129,
-                    "endOffset": 6179
+                    "endOffset": 6170
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1108,9 +1108,9 @@
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 6184,
+                    "startOffset": 6175,
                     "endColumn": 116,
-                    "endOffset": 6296
+                    "endOffset": 6287
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1127,9 +1127,9 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 6301,
+                    "startOffset": 6292,
                     "endColumn": 84,
-                    "endOffset": 6381
+                    "endOffset": 6372
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1146,9 +1146,9 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 6386,
+                    "startOffset": 6377,
                     "endColumn": 86,
-                    "endOffset": 6468
+                    "endOffset": 6459
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1165,9 +1165,9 @@
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 6473,
+                    "startOffset": 6464,
                     "endColumn": 103,
-                    "endOffset": 6572
+                    "endOffset": 6563
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\SensibleWalletVaam\\googleplayserviceslib\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
@@ -1184,18 +1184,18 @@
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 6577,
+                    "startOffset": 6568,
                     "endColumn": 57,
-                    "endOffset": 6630
+                    "endOffset": 6621
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1378,
+                        "startOffset": 1369,
                         "endColumn": 57,
-                        "endOffset": 1431
+                        "endOffset": 1422
                     }
                 }
             },
@@ -1203,9 +1203,9 @@
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 6635,
+                    "startOffset": 6626,
                     "endColumn": 100,
-                    "endOffset": 6731
+                    "endOffset": 6722
                 },
                 "from": {
                     "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-zh-rTW\\values-zh-rTW.xml",

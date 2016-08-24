@@ -46,6 +46,7 @@
 -keep class com.heyzap.sdk.ads.MediationTestActivity { <init>(); }
 -keep class com.heyzap.sdk.ads.PackageAddedReceiver { <init>(); }
 -keep class com.facebook.CustomTabActivity { <init>(); }
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
 -keep class com.unity3d.ads.android.view.UnityAdsFullscreenActivity { <init>(); }
 -keep public class * extends android.app.backup.BackupAgent {
     <init>();

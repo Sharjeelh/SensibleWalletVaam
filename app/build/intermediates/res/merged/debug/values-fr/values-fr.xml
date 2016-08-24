@@ -17,7 +17,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
-    <string name="com_facebook_device_auth_instructions">Rendez-vous sur &lt;b>facebook.com/device&lt;/b>&lt;br /> sur votre smartphone ou votre ordinateur et entrez ce code :</string>
+    <string name="com_facebook_device_auth_instructions">Rendez-vous sur &lt;b>facebook.com/device&lt;/b> sur votre smartphone ou votre ordinateur et entrez ce code :</string>
     <string name="com_facebook_image_download_unknown_error">Une erreur inattendue s’est produite au moment de télécharger une image.</string>
     <string name="com_facebook_internet_permission_error_message">La connexion au web nécessite une autorisation d’accéder à INTERNET</string>
     <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>

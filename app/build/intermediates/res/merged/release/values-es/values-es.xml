@@ -17,7 +17,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
-    <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b>&lt;br /> en tu smartphone u ordenador e introduce este código:</string>
+    <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> en tu smartphone u ordenador e introduce este código:</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
     <string name="com_facebook_internet_permission_error_message">El inicio de sesión a la web requiere permiso de conexión a internet</string>
     <string name="com_facebook_internet_permission_error_title">Error AndroidManifest</string>

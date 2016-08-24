@@ -17,7 +17,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deel met"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deel met %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Vou in"</string>
-    <string name="com_facebook_device_auth_instructions">Besoek &lt;b>facebook.com/device&lt;/b>&lt;br /> op jou slimfoon of rekenaar en voer hierdie kode in:</string>
+    <string name="com_facebook_device_auth_instructions">Besoek &lt;b>facebook.com/device&lt;/b> op jou slimfoon of rekenaar en voer hierdie kode in:</string>
     <string name="com_facebook_image_download_unknown_error">Onverwagse fout met aflaai van \'n
         prent.</string>
     <string name="com_facebook_internet_permission_error_message">Webaansig-aanmelding benodig INTERNET-toestemming</string>

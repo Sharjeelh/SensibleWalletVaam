@@ -17,7 +17,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
-    <string name="com_facebook_device_auth_instructions">Откройте «&lt;b>facebook.com/device&lt;/b>&lt;br />» на своем смартфофне или компьютере и введите этот код:</string>
+    <string name="com_facebook_device_auth_instructions">Откройте «&lt;b>facebook.com/device&lt;/b>» на своем смартфофне или компьютере и введите этот код:</string>
     <string name="com_facebook_image_download_unknown_error">При загрузке изображения возникла неожиданная ошибка.</string>
     <string name="com_facebook_internet_permission_error_message">Для входа в WebView необходимо разрешение INTERNET</string>
     <string name="com_facebook_internet_permission_error_title">Ошибка AndroidManifest</string>
