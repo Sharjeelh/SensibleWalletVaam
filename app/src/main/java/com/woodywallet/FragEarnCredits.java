@@ -144,7 +144,7 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 //            "Try Apps for at least 3 minutes",
 //			"Try Apps for at least 3 minutes",
 //            "Try Apps for at Least 3 Minutes",
-            "Try Apps for at Least 3 Minutes",
+//            "Try Apps for at Least 3 Minutes",
             "Try Apps for at Least 3 Minutes",
             "Try Apps for at Least 3 Minutes",
             "Try Apps for at Least 3 Minutes",
@@ -156,7 +156,7 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
             "Watch video To Get " + GlobalVariables.VIDEO_POINTS_NEW + " credits",
             "Watch video To Get " + GlobalVariables.VIDEO_POINTS_NEW + " credits",
             "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits",
-//            "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits"
+            "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits"
     };
 
     private String[] strCreditOfferCredits = new String[strCreditOfferDetail.length];
@@ -341,14 +341,14 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
                     getResources().getString(R.string.offer_invite_friends),
                     getResources().getString(R.string.offer_rate_app),
                     getResources().getString(R.string.offer_daily_reward),
-//					getResources().getString(R.string.offer_persona)	,
-					getResources().getString(R.string.offer_trialpay)	,
+					getResources().getString(R.string.offer_persona)	,
+//					getResources().getString(R.string.offer_trialpay)	,
                     getResources().getString(R.string.offer_super_sonic),
                     getResources().getString(R.string.offer_adxmi),
 //					getResources().getString(R.string.offer_tapjoy)	,
 //                    getResources().getString(R.string.offer_adgate_rewards),
                     getResources().getString(R.string.offer_nativex),
-                    getResources().getString(R.string.offer_ascend_media),
+//                    getResources().getString(R.string.offer_ascend_media),
 //                    getResources().getString(R.string.offer_cpalead),
                     getResources().getString(R.string.offer_super_rewards),
 					getResources().getString(R.string.offer_unity),
@@ -357,7 +357,7 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
                     getResources().getString(R.string.offer_adcolony),
                     //getResources().getString(R.string.offer_heyzap),
                     getResources().getString(R.string.offer_revmob),
-//                    getResources().getString(R.string.offer_vungle),
+                    getResources().getString(R.string.offer_vungle),
             };
 
             for (int i = 0; i < strCreditOfferName.length; i++) {
@@ -382,11 +382,11 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 
             setupAXDMI();
             loadListView();
-//			setUpPersonaSdk();
-			trailPay();
+			setUpPersonaSdk();
+//			trailPay();
             setUpSuperSonic();
 //			connectToTapjoy();
-//            setUpVungle();
+            setUpVungle();
 //			setupSuperRewards();
             setUpAdColony();
 
@@ -484,14 +484,14 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
             "InviteFriends",
             "RateFive",
             "DailyReward",
-//			"PS",
-            "TP",
+			"PS",
+//            "TP",
             "SS",
             "ADXMI",
 //            "TJ",
 //            "AR",
             "NX",
-            "AM",
+//            "AM",
 //            "CL",
             "SR",
             "UT",
@@ -500,7 +500,7 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
             "AC",
             //"HZ",
             "RM",
-//            "VG",
+            "VG",
 
     };
 
