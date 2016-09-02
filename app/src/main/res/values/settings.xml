@@ -11,8 +11,8 @@
     <string name="api_ascendmedia_publisher_id">106165</string>
     <string name="api_ascendmedia_adwall_id">6821</string>
     <string name="api_persona_app_id">f7890c50d563312a57e3e98aa5bf2e5e</string>
-    <string name="api_cpalead_gateway_id">1084146</string>
-    <string name="api_cpalead_publisher_id">474955</string>
+    <string name="api_cpalead_gateway_id">1109631</string>
+    <string name="api_cpalead_publisher_id">612770</string>
     <string name="api_super_rewards_hash">sivmizgjpoj.973661791368</string>
     <string name="api_super_rewards_app_package_name">com.woodywallet</string>
     <string name="api_super_sonic_app_key">52e3d13d</string>
@@ -35,9 +35,9 @@
     <string name="api_chartboost_app_id">56d88be4a8b63c607ca56522</string>
     <string name="api_chartboost_app_signature">4137667b19d8d442a895ffbe33c90798033bed69</string>
 
-    <string name="applovin_sdk_key">hO8UPJwRCpTBUooTCdnUTz4QeD8DsG3XeB12UxTgl0tEpen_HXUmVZA8nJLdZOACaBF37klslc5XGsXXO1IubS</string>
+    <string name="applovin_sdk_key">NLtuOt74Eb5gKryek_VrbZtLZBuJQSlpochAUpFiPKNkAKNuKtkwRbG0n9JCb3_NfgT9Uosv6EcHZ-AvsupHT4</string>
 
-    <string name="heyzap_app_id">d3f795a66009bd68262f51ecc847879f</string>
+    <string name="heyzap_app_id">f80acd8b82557ef2e560e256424d370e</string>
 
     <string name="revmob_media_id">57b2d734bc95dfc52af059af</string>
 

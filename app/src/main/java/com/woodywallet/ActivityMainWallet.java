@@ -124,7 +124,7 @@ public class ActivityMainWallet extends BaseActivity implements WebServiceListen
 
 		AppLovinSdk.initializeSdk(this);
 		HeyzapAds.start(getString(R.string.heyzap_app_id), this);
-		//HeyzapAds.startTestActivity(this);
+//		HeyzapAds.startTestActivity(this);
 
 		VideoAd.fetch();
 

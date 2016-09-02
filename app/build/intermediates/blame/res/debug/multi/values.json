@@ -9191,7 +9191,14 @@
                     "endOffset": 69148
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml"
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 58,
+                        "endOffset": 626
+                    }
                 }
             },
             {
@@ -9203,7 +9210,14 @@
                     "endOffset": 69208
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml"
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 59,
+                        "endOffset": 687
+                    }
                 }
             },
             {
@@ -9227,14 +9241,7 @@
                     "endOffset": 69341
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 491,
-                        "endColumn": 79,
-                        "endOffset": 566
-                    }
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml"
                 }
             },
             {
@@ -9342,7 +9349,14 @@
                     "endOffset": 70145
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml"
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 131,
+                        "endOffset": 2126
+                    }
                 }
             },
             {
@@ -10446,7 +10460,14 @@
                     "endOffset": 78933
                 },
                 "from": {
-                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml"
+                    "file": "F:\\MyWork\\Baam\\SensibleWalletVaam\\app\\src\\main\\res\\values\\settings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2134,
+                        "endColumn": 74,
+                        "endOffset": 2204
+                    }
                 }
             },
             {

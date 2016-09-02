@@ -815,8 +815,8 @@
     <string name="api_ascendmedia_publisher_id">106165</string>
     <string name="api_chartboost_app_id">56d88be4a8b63c607ca56522</string>
     <string name="api_chartboost_app_signature">4137667b19d8d442a895ffbe33c90798033bed69</string>
-    <string name="api_cpalead_gateway_id">1084146</string>
-    <string name="api_cpalead_publisher_id">474955</string>
+    <string name="api_cpalead_gateway_id">1109631</string>
+    <string name="api_cpalead_publisher_id">612770</string>
     <string name="api_nativex_app_id">95518</string>
     <string name="api_persona_app_id">f7890c50d563312a57e3e98aa5bf2e5e</string>
     <string name="api_super_rewards_app_package_name">com.woodywallet</string>
@@ -827,7 +827,7 @@
     <string name="api_vungle_app_id">57c3ebeae7c461f924000058</string>
     <string name="app_name">Woody Wallet</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="applovin_sdk_key">hO8UPJwRCpTBUooTCdnUTz4QeD8DsG3XeB12UxTgl0tEpen_HXUmVZA8nJLdZOACaBF37klslc5XGsXXO1IubS</string>
+    <string name="applovin_sdk_key">NLtuOt74Eb5gKryek_VrbZtLZBuJQSlpochAUpFiPKNkAKNuKtkwRbG0n9JCb3_NfgT9Uosv6EcHZ-AvsupHT4</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> on your smartphone or computer and enter this code</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
     <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
@@ -919,7 +919,7 @@
     <string name="error_splash_no_internet">Internet not available.\nPlease activate internet to go further</string>
     <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
     <string name="google_analytics_id">UA-74706740-1</string>
-    <string name="heyzap_app_id">d3f795a66009bd68262f51ecc847879f</string>
+    <string name="heyzap_app_id">f80acd8b82557ef2e560e256424d370e</string>
     <string name="invite">Invite</string>
     <string name="message_invite_id_copied">Invitation ID Copied</string>
     <string name="message_login_success">Login Successful</string>

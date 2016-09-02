@@ -13,8 +13,8 @@ public class GlobalVariables {
 	public static final String  SOCIALLIST	 	= "social_list";
 	
 	public static final String  UPDATE_POINTS	= "updatePoints";
-	public static final String  VIDEO_POINTS	= "5";
-	public static final String  VIDEO_POINTS_NEW	= "5";
+	public static final String  VIDEO_POINTS	= "2";
+	public static final String  VIDEO_POINTS_NEW	= "2";
 
 	public static final String  CHECKIN		 	= "checkin";// post(user_id) // Daily Rewards
 	public static final String  INVITAIONCODE 	= "invitaion_code";//post(user_id , invite_wallet_id)

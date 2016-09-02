@@ -23,9 +23,12 @@ import android.widget.Toast;
 
 import com.adapter.AdapterEarnCredits;
 import com.adscendmedia.sdk.ui.OffersActivity;
+import com.applovin.adview.AppLovinInterstitialAd;
 import com.applovin.adview.AppLovinInterstitialAdDialog;
 import com.applovin.sdk.AppLovinAd;
 import com.applovin.sdk.AppLovinAdDisplayListener;
+import com.applovin.sdk.AppLovinAdLoadListener;
+import com.applovin.sdk.AppLovinSdk;
 import com.archiveinfotech.crashreport.Utils;
 import com.chartboost.sdk.CBLocation;
 import com.chartboost.sdk.Chartboost;
@@ -37,6 +40,7 @@ import com.commonutility.WebService;
 import com.commonutility.WebServiceListener;
 import com.commonutility.WebServiceWithoutDialog;
 import com.helper.MyUtils;
+import com.heyzap.sdk.ads.HeyzapAds;
 import com.heyzap.sdk.ads.VideoAd;
 import com.jirbo.adcolony.AdColony;
 import com.jirbo.adcolony.AdColonyAd;
@@ -144,7 +148,7 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 //            "Try Apps for at least 3 minutes",
 //			"Try Apps for at least 3 minutes",
 //            "Try Apps for at Least 3 Minutes",
-//            "Try Apps for at Least 3 Minutes",
+            "Try Apps for at Least 3 Minutes",
             "Try Apps for at Least 3 Minutes",
             "Try Apps for at Least 3 Minutes",
             "Try Apps for at Least 3 Minutes",
@@ -153,8 +157,8 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 //            "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits",
 //            "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits",
 //            "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits",
-            "Watch video To Get " + GlobalVariables.VIDEO_POINTS_NEW + " credits",
-            "Watch video To Get " + GlobalVariables.VIDEO_POINTS_NEW + " credits",
+//            "Watch video To Get " + GlobalVariables.VIDEO_POINTS_NEW + " credits",
+//            "Watch video To Get " + GlobalVariables.VIDEO_POINTS_NEW + " credits",
             "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits",
             "Watch video To Get "+GlobalVariables.VIDEO_POINTS_NEW+" credits"
     };
@@ -188,8 +192,8 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
     // get the VunglePub instance
     final VunglePub vunglePub = VunglePub.getInstance();
     boolean AdColonyAdSLoaded = false;
-    private RevMob revmob;
-    private RevMobFullscreen video;
+//    private RevMob revmob;
+//    private RevMobFullscreen video;
 
     static ImageView image;
 
@@ -205,11 +209,11 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
         UnityAds.init(getActivity(), getString(R.string.unity_ads_id), this);
         UnityAds.setDebugMode(Boolean.parseBoolean(getString(R.string.unity_ads_debug_mode)));
         UnityAds.setTestMode(Boolean.parseBoolean(getString(R.string.unity_ads_test_mode)));
-        /*adDialog = AppLovinInterstitialAd.create(AppLovinSdk.getInstance(getActivity()), getActivity());
-		adDialog.setAdDisplayListener(this);*/
+        adDialog = AppLovinInterstitialAd.create(AppLovinSdk.getInstance(getActivity()), getActivity());
+		adDialog.setAdDisplayListener(this);
 
 
-		revmob = RevMob.startWithListener(getActivity(), new RevMobAdsListener(){
+		/*revmob = RevMob.startWithListener(getActivity(), new RevMobAdsListener(){
 			@Override
 			public void onRevMobSessionIsStarted() {
 				createVideo();
@@ -229,11 +233,11 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 			public void onRevMobAdNotReceived(String s) {
 				super.onRevMobAdNotReceived(s);
 			}
-		});
+		});*/
 
 
         Utils.setFontAllView((ViewGroup) aiView);
-		/*VideoAd.setOnStatusListener(new HeyzapAds.OnStatusListener() {
+		VideoAd.setOnStatusListener(new HeyzapAds.OnStatusListener() {
 			@Override
 			public void onShow(String s) {
 				VideoAd.fetch();
@@ -275,13 +279,13 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 
 			}
 
-		});*/
+		});
 
 
         return aiView;
     }
 
-	private void createVideo() {
+	/*private void createVideo() {
 		video = revmob.createVideo(getActivity(), new RevMobAdsListener(){
 
 			@Override
@@ -307,7 +311,7 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 			}
 		});
 
-	}
+	}*/
 
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
@@ -349,14 +353,14 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 //                    getResources().getString(R.string.offer_adgate_rewards),
                     getResources().getString(R.string.offer_nativex),
 //                    getResources().getString(R.string.offer_ascend_media),
-//                    getResources().getString(R.string.offer_cpalead),
+                    getResources().getString(R.string.offer_cpalead),
                     getResources().getString(R.string.offer_super_rewards),
-					getResources().getString(R.string.offer_unity),
+//					getResources().getString(R.string.offer_unity),
 //					getResources().getString(R.string.offer_chartboost),
-//					getResources().getString(R.string.offer_applovin),
-                    getResources().getString(R.string.offer_adcolony),
-                    //getResources().getString(R.string.offer_heyzap),
-                    getResources().getString(R.string.offer_revmob),
+					getResources().getString(R.string.offer_applovin),
+//                    getResources().getString(R.string.offer_adcolony),
+//                    getResources().getString(R.string.offer_heyzap),
+//                    getResources().getString(R.string.offer_revmob),
                     getResources().getString(R.string.offer_vungle),
             };
 
@@ -388,7 +392,7 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 //			connectToTapjoy();
             setUpVungle();
 //			setupSuperRewards();
-            setUpAdColony();
+//            setUpAdColony();
 
         }
 
@@ -492,14 +496,14 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
 //            "AR",
             "NX",
 //            "AM",
-//            "CL",
+            "CL",
             "SR",
-            "UT",
+//            "UT",
 //            "CB",
-//            "AL",
-            "AC",
-            //"HZ",
-            "RM",
+            "AL",
+//            "AC",
+//            "HZ",
+//            "RM",
             "VG",
 
     };
@@ -630,13 +634,13 @@ public class FragEarnCredits extends Fragment implements WebServiceListener, AdC
                 }
                 break;
             case "RM":
-                if (revmob != null && revmob.isVideoLoaded() && video != null) {
+                /*if (revmob != null && revmob.isVideoLoaded() && video != null) {
                     MyUtils.sendEventToGoogleAnalytics(getActivity().getApplication(), CATEGORY_OFFERWALL, "RevMob");
                     video.show();
                 } else {
                     Toast.makeText(getActivity(), "Revmob video not ready not ready", Toast.LENGTH_SHORT).show();
 
-                }
+                }*/
                 break;
             case "UT":
                 if (UnityAds.canShow()) {
